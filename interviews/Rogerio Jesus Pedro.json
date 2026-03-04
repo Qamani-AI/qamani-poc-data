@@ -1,0 +1,5090 @@
+{
+  "interviewee": "Rogerio Jesus Pedro",
+  "honoree": "Rogerio Jesus Pedro",
+  "instructions": "[SISTEMA | AGENTE ENTREVISTADOR]\n\n    Contexto:\n    Você está entrevistando o/a Rogerio Marques sobre o/a Rogerio Jesus Pedro. (Se algum dos nomes não for informado, pergunte de forma neutra: “Sobre quem você gostaria de falar hoje?”)\n    Seu objetivo é conduzir uma entrevista de história de vida, com empatia e foco, para registrar memórias autênticas.\n\n    Persona e Conduta:\n    - Postura: empático, atento, curioso sem invadir; linguagem simples, calorosa e respeitosa.\n    - Essa é a base do seu tom. Entretanto, observe o estilo do entrevistado e ajuste levemente:\n        - se ele for mais descontraído ou irônico, use respostas um pouco mais diretas e com leveza;\n        - se for reservado, mantenha pausas e suavidade;\n        - se for emotivo, demonstre escuta ativa e acolhimento.\n    - Adapte sem perder empatia nem seriedade. Nunca adote sarcasmo ou deboche, apenas acompanhe o ritmo e a naturalidade do interlocutor.\n    - Uma pergunta por vez. Perguntas curtas e abertas.\n    - Se o usuário fizer uma pergunta direta, responda em até 2 frases e retome a entrevista.\n    - Use o nome das pessoas exatamente como o usuário disser. Preserve expressões e gírias do entrevistado.\n    - Não invente fatos. Reflita (“espelhamento”) e parafraseie quando útil.\n    - Se o entrevistado mudar de etapa/assunto, acompanhe brevemente e depois retome o fio.\n    - Se o entrevistado disser que enviou uma imagem, agradeça, adicione-a à descrição fornecida ao contexto da conversa, agindo como se você tivesse visto a imagem. Faça perguntas sobre ela se for cabível.\n    - Se o entrevistado disser que enviou um arquivo, agradeça, responda dizendo que será guardado e analisado posteriormente.\n\n    Abertura (quebra-gelo):\n    - “Para começarmos, você poderia se apresentar brevemente? (idade, família, onde mora atualmente)”\n    - “Como você descreveria Rogerio Jesus Pedro em poucas palavras?”\n    - “Qual é a sua relação com Rogerio Jesus Pedro?”\n\n    Estrutura 4W (quem, onde, quando, porquê) — use como trilha, não como formulário rígido. Sempre faça 1–2 follow-ups antes de trocar de tópico.\n\n    [QUEM — Personagem e Relações]\n    Objetivo: entender a conexão do entrevistado com Rogerio Jesus Pedro.\n    Perguntas-guia:\n    - “Qual lembrança mais marcante você guarda de Rogerio Jesus Pedro?”\n    - “Que papel Rogerio Jesus Pedro teve/tem na sua vida?”\n    Diretriz: acolha primeiro; perguntas abertas; nunca pressione. Se houver emoção, ofereça pausa.\n\n    [ONDE — Cenário e Ambiente]\n    Objetivo: situar o relato no espaço físico e emocional.\n    Perguntas-guia:\n    - “Onde vocês costumavam se encontrar/conviver?”\n    - “Existe um lugar que represente a presença de Rogerio Jesus Pedro para você?”\n    - “Quais sensações esse lugar desperta (sons, cheiros, cores)?”\n    Diretriz: estimule descrições sensoriais para enriquecer a cena.\n\n    [QUANDO — Linha do Tempo]\n    Objetivo: organizar memórias em marcos.\n    Perguntas-guia:\n    - Se o entrevistado não for membro da família de Rogerio Jesus Pedro, “Quando foi a primeira vez que vocês se encontraram?”\n    - “Houve um momento que mudou sua forma de ver Rogerio Jesus Pedro?”\n    - “Se pudesse reviver um dia com Rogerio Jesus Pedro, qual seria e por quê?”\n    Diretriz: siga um arco (ex.: infância → juventude → maturidade) ou fases relevantes do tema.\n\n    [POR QUÊ — Sentido e Legado]\n    Objetivo: extrair significado e impacto.\n    Perguntas-guia:\n    - “Por que essa lembrança é importante para você?”\n    - “O que você sente que Rogerio Jesus Pedro deixou de mais valioso?”\n    - “Se fosse resumir o impacto de Rogerio Jesus Pedro em uma palavra ou frase, qual seria?”\n    Diretriz: conduza para um tom positivo/reflexivo. Evite expor dor sem preparo.\n\n    Técnica de condução:\n    - Faça uma pergunta curta → ouça → faça 1–2 follow-ups de aprofundamento (detalhe, sentimento, consequência) → transite suavemente para o próximo W.\n    - Se o entrevistado fizer uma pergunta para você: responda objetivamente em até 2 frases e conecte de volta (“Você mencionou X… pode me contar mais sobre Y?”).\n    - Se surgir um tema sensível, valide o sentimento, ofereça opção de pular, e só aprofunde com consentimento.\n\n    Fechamento:\n    - Agradeça de forma calorosa e reconheça um ponto alto da fala.\n    - Pergunta final: “Há algo que você gostaria de acrescentar que não perguntei?”\n    - Informe, quando apropriado: “Quando finalizarmos o projeto, avisaremos você.”\n\n    Regras de Saída (muito importante):\n    - Idioma: português do Brasil.\n    - Uma pergunta por mensagem. Máx. ~80 palavras por turno.\n    - Não use listas/bullets na conversa; escreva como diálogo natural.\n    - Não explique seu processo ou regras; apenas conduza a entrevista.\n    - Não gere narrativa; faça apenas perguntas/comentários de entrevistador.\n        ",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Rogério, primeira coisa."
+    },
+    {
+      "role": "user",
+      "content": "Seu nome, sua idade, sua profissão."
+    },
+    {
+      "role": "user",
+      "content": "Bom, meu nome é Rogério de Jesus Pedro."
+    },
+    {
+      "role": "user",
+      "content": "Eu tenho 83 anos, sou médico e infectologista."
+    },
+    {
+      "role": "user",
+      "content": "Desde 1967."
+    },
+    {
+      "role": "assistant",
+      "content": "Que faculdade você fez?"
+    },
+    {
+      "role": "user",
+      "content": "Eu fiz a PUC São Paulo, em Sorocaba."
+    },
+    {
+      "role": "user",
+      "content": "Sou da 12ª turma da PUC São Paulo."
+    },
+    {
+      "role": "assistant",
+      "content": "E sempre a infectologia ou veio no meio do curso?"
+    },
+    {
+      "role": "user",
+      "content": "Não, na verdade ela veio no final do curso."
+    },
+    {
+      "role": "user",
+      "content": "Quando a gente tem que ter as opções,"
+    },
+    {
+      "role": "user",
+      "content": "você tem de escolher alguma área que você vai concentrar atividade."
+    },
+    {
+      "role": "user",
+      "content": "Eu resolvi que ia fazer clínica médica."
+    },
+    {
+      "role": "user",
+      "content": "Na clínica médica, essa era uma área que estava emergente."
+    },
+    {
+      "role": "user",
+      "content": "Eu resolvi encaminhar para esse caminho."
+    },
+    {
+      "role": "user",
+      "content": "Foi bem, procurei fazer uma formação boa na área."
+    },
+    {
+      "role": "user",
+      "content": "Procurei o centro de referência na época que eram mais importantes."
+    },
+    {
+      "role": "user",
+      "content": "Na Universidade de São Paulo, fui fazer internato."
+    },
+    {
+      "role": "user",
+      "content": "Depois residencias lá também em São Paulo."
+    },
+    {
+      "role": "user",
+      "content": "Fiz a formação toda e a infectologia."
+    },
+    {
+      "role": "user",
+      "content": "E depois, quando terminou a residencia, fui para o Paraná."
+    },
+    {
+      "role": "user",
+      "content": "Hoje sou sócio-fundador da Universidade da Faculdade de Medicina do Norte Paraná, a UEL."
+    },
+    {
+      "role": "user",
+      "content": "Que é uma escola da primeira extrema linha."
+    },
+    {
+      "role": "user",
+      "content": "Na primeira estúdia, fui trabalhar lá."
+    },
+    {
+      "role": "user",
+      "content": "Fui convidado pelo reitor para trabalhar lá."
+    },
+    {
+      "role": "user",
+      "content": "Fiquei lá, fiz um contrato de 2 anos."
+    },
+    {
+      "role": "user",
+      "content": "Nessa altura nasceu minha filha."
+    },
+    {
+      "role": "user",
+      "content": "E eu achei que eu estava muito longe do mundo."
+    },
+    {
+      "role": "user",
+      "content": "Estava muito cedo para eu me isolar nesse interior que era do Nato Paraná."
+    },
+    {
+      "role": "user",
+      "content": "Estava 500 km de Londrina, de Campinas."
+    },
+    {
+      "role": "user",
+      "content": "Estava 500 km de São Paulo, Campinas."
+    },
+    {
+      "role": "user",
+      "content": "500 km de Curitiba."
+    },
+    {
+      "role": "user",
+      "content": "Eu achei que eu precisava..."
+    },
+    {
+      "role": "user",
+      "content": "Eu precisava frequentar um centro de referência na área médica que eu tivesse mais desenvolvido."
+    },
+    {
+      "role": "user",
+      "content": "Quando eu estava fazendo carreira acadêmica,"
+    },
+    {
+      "role": "user",
+      "content": "fui convidado para trabalhar aqui no Unicamp e estou aí desde 1971."
+    },
+    {
+      "role": "assistant",
+      "content": "Então foi o Unicamp que te trouxe para Campinas?"
+    },
+    {
+      "role": "user",
+      "content": "Foi."
+    },
+    {
+      "role": "user",
+      "content": "Pelo Unicamp."
+    },
+    {
+      "role": "assistant",
+      "content": "Vamos começar do começo?"
+    },
+    {
+      "role": "assistant",
+      "content": "Gostaria que você me contasse."
+    },
+    {
+      "role": "assistant",
+      "content": "De uma maneira bem resumida, a sua vida desde o começo."
+    },
+    {
+      "role": "user",
+      "content": "Minha vida é uma vida engraçada."
+    },
+    {
+      "role": "user",
+      "content": "Eu tive algumas momentos que os russos mudaram completamente."
+    },
+    {
+      "role": "user",
+      "content": "Eu nasci na época da guerra, na segunda grande guerra."
+    },
+    {
+      "role": "user",
+      "content": "Na Europa, em uma região rural, no interior em Portugal,"
+    },
+    {
+      "role": "user",
+      "content": "uma área bem rural e ainda bastante primitivo."
+    },
+    {
+      "role": "user",
+      "content": "Eu morava em uma casa de pedra, aquelas casas antídas de pedra."
+    },
+    {
+      "role": "user",
+      "content": "Atividades rurais."
+    },
+    {
+      "role": "user",
+      "content": "Minha vida se desenvolveu aí."
+    },
+    {
+      "role": "user",
+      "content": "Eu contato com meus avós, minha família, que era umaa família grande."
+    },
+    {
+      "role": "user",
+      "content": "E passei lá, fiquei lá até os oito anos de idade."
+    },
+    {
+      "role": "assistant",
+      "content": "Lá onde?"
+    },
+    {
+      "role": "user",
+      "content": "Lá, foi em Coimbra."
+    },
+    {
+      "role": "user",
+      "content": "Uma região que eu morava, era uma região próxima do Coimbra."
+    },
+    {
+      "role": "user",
+      "content": "Tem o Vale do Rio Mundelo, que é conhecido."
+    },
+    {
+      "role": "user",
+      "content": "A minha Serra do Carvalho, onde esses aviões da Força Aérea Portuguesa"
+    },
+    {
+      "role": "user",
+      "content": "se chocaram em muito a vez, a jato foi uma explosão,"
+    },
+    {
+      "role": "user",
+      "content": "quase acabou com a Força Aérea Portuguesa."
+    },
+    {
+      "role": "user",
+      "content": "E a minha Vale, o meu vale é o Vale seguinte, o Vale do Modelo,"
+    },
+    {
+      "role": "user",
+      "content": "a Serra do Carvalho e a minha Vale entrava no meu Vale."
+    },
+    {
+      "role": "user",
+      "content": "Aliás, a minha região chamava Vale dos Burros."
+    },
+    {
+      "role": "user",
+      "content": "E era o nome mesmo, até hoje está lá, o Vale dos Burros."
+    },
+    {
+      "role": "user",
+      "content": "Era uma área que a gente tem uma hiberia, vivia ali uma comunidade fechada."
+    },
+    {
+      "role": "user",
+      "content": "Quem que estava lá, casas ja mais antigas,"
+    },
+    {
+      "role": "user",
+      "content": "provavelmente é que ele fazia um parte de uma diáspora"
+    },
+    {
+      "role": "user",
+      "content": "de imigração que aconteceu durante tempos anteriores,"
+    },
+    {
+      "role": "user",
+      "content": "época de do marques de pombal, por aí,"
+    },
+    {
+      "role": "user",
+      "content": "que teve perseguição algumas comunidades."
+    },
+    {
+      "role": "user",
+      "content": "Eu acho que essa foi uma das comunidades que teve de se esconder."
+    },
+    {
+      "role": "user",
+      "content": "E se esconder muito bem, porque essa região até hoje,"
+    },
+    {
+      "role": "user",
+      "content": "se eu quiser me esconder, vou pra lá, ninguém vai me achar."
+    },
+    {
+      "role": "user",
+      "content": "Então, fiquei lá até os oito anos."
+    },
+    {
+      "role": "user",
+      "content": "Vivia, os crianças que vivem a área rural."
+    },
+    {
+      "role": "user",
+      "content": "Não me lembro de saber que existia jogo de futebol,"
+    },
+    {
+      "role": "user",
+      "content": "que tinha nada."
+    },
+    {
+      "role": "user",
+      "content": "Simplesmente, ele que vinha em contato com as coisas que existia na comunidade rural."
+    },
+    {
+      "role": "user",
+      "content": "E fui lá, que eu fiquei até os oito anos."
+    },
+    {
+      "role": "assistant",
+      "content": "Quais são essas coisas? Vinho?"
+    },
+    {
+      "role": "user",
+      "content": "Não, lá o que a gente fazia?"
+    },
+    {
+      "role": "user",
+      "content": "A gente tinha..."
+    },
+    {
+      "role": "user",
+      "content": "O que a gente tinha?"
+    },
+    {
+      "role": "user",
+      "content": "Eles tinha gente que vivia em uma área de agrícola,"
+    },
+    {
+      "role": "user",
+      "content": "pessoas que viviam, geralmente dependendo das atividades do trabalho no campo, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Eram agricultores."
+    },
+    {
+      "role": "user",
+      "content": "Meu avô era um grande agricultor, porque tinha bastante muita terra."
+    },
+    {
+      "role": "user",
+      "content": "Meu outro avô também tinha bastante terra."
+    },
+    {
+      "role": "user",
+      "content": "As pessoas que tinham uma certa..."
+    },
+    {
+      "role": "user",
+      "content": "Têm terra e viviam explorando a terra e a gente vivia nessa comunidade."
+    },
+    {
+      "role": "user",
+      "content": "Bom, mas depois da guerra,"
+    },
+    {
+      "role": "user",
+      "content": "eu nasci durante a guerra, na 1942,"
+    },
+    {
+      "role": "user",
+      "content": "depois da guerra as condições lá ficaram muito difíceis."
+    },
+    {
+      "role": "user",
+      "content": "Acho que as perspectivas de crescimento estavam muito predicadas,"
+    },
+    {
+      "role": "user",
+      "content": "as atividades agrarias,"
+    },
+    {
+      "role": "user",
+      "content": "a gente não tinha expectativa de crescimento de desenvolvimento."
+    },
+    {
+      "role": "user",
+      "content": "A gente sabia que ia ficar naquilo mesmo,"
+    },
+    {
+      "role": "user",
+      "content": "e pouca coisa ia mudar."
+    },
+    {
+      "role": "user",
+      "content": "Meu pai, que tinha uma atividade,"
+    },
+    {
+      "role": "user",
+      "content": "meu pai era mais carpinteiro, uma família de carpinteiros."
+    },
+    {
+      "role": "user",
+      "content": "Então, as pessoas, meu avô era carpinteiro,"
+    },
+    {
+      "role": "user",
+      "content": "meu tio era carpinteiro, meu pai era carpinteiro,"
+    },
+    {
+      "role": "user",
+      "content": "e eu ia ser carpinteiro."
+    },
+    {
+      "role": "user",
+      "content": "Eu acho que ele achou que eu não tinha muito talento por assunto,"
+    },
+    {
+      "role": "user",
+      "content": "Bom, mas então, quando começou nessa época,"
+    },
+    {
+      "role": "user",
+      "content": "na Europa, uma região pobre,"
+    },
+    {
+      "role": "user",
+      "content": "politicamente muito complicada,"
+    },
+    {
+      "role": "user",
+      "content": "um fascismo completo,"
+    },
+    {
+      "role": "user",
+      "content": "perseguição política para todos os cantos,"
+    },
+    {
+      "role": "user",
+      "content": "e guerra colonial."
+    },
+    {
+      "role": "user",
+      "content": "As colônias, a gente era preparado para..."
+    },
+    {
+      "role": "user",
+      "content": "dos 16 até os após os 16 anos,"
+    },
+    {
+      "role": "user",
+      "content": "18, fazia ser serviço militar de quatro anos,"
+    },
+    {
+      "role": "user",
+      "content": "eu tinha trabalhado para ser para quatro anos"
+    },
+    {
+      "role": "user",
+      "content": "uma das provincias ultramarinas"
+    },
+    {
+      "role": "user",
+      "content": "para trabalhar nas guerras de libertação"
+    },
+    {
+      "role": "user",
+      "content": "que ocorreu no mundo inteiro nas comunidades portuguesas,"
+    },
+    {
+      "role": "user",
+      "content": "da língua portuguesa, na África, na Índia, na China."
+    },
+    {
+      "role": "user",
+      "content": "Então, a expectativa era que a gente tivesse"
+    },
+    {
+      "role": "user",
+      "content": "que fosse fazer esse serviço."
+    },
+    {
+      "role": "user",
+      "content": "Isso contrariava, de certa maneira,"
+    },
+    {
+      "role": "user",
+      "content": "aquilo que meus pais desejavam que eu tivesse."
+    },
+    {
+      "role": "user",
+      "content": "E eles migraram por próximo ano."
+    },
+    {
+      "role": "user",
+      "content": "Isso aí foi uma mudança absoluta."
+    },
+    {
+      "role": "user",
+      "content": "Foi um desvio de rumo,"
+    },
+    {
+      "role": "user",
+      "content": "que certamente marcou tudo o que ia acontecer na minha vida,"
+    },
+    {
+      "role": "user",
+      "content": "se mudou daí para a frente."
+    },
+    {
+      "role": "user",
+      "content": "Daí para a frente as coisas foram em migração,"
+    },
+    {
+      "role": "user",
+      "content": "eu não."
+    },
+    {
+      "role": "user",
+      "content": "Comecei a ver uma cidade grande,"
+    },
+    {
+      "role": "user",
+      "content": "Lisboa, eu fui conhecer Lisboa,"
+    },
+    {
+      "role": "user",
+      "content": "final de 1950."
+    },
+    {
+      "role": "user",
+      "content": "Eu vi aqui uma certa atenção,"
+    },
+    {
+      "role": "user",
+      "content": "depois migração,"
+    },
+    {
+      "role": "user",
+      "content": "fizendo uma migração na época clássica da migração europeia"
+    },
+    {
+      "role": "user",
+      "content": "para o Brasil,"
+    },
+    {
+      "role": "user",
+      "content": "ou pra varios lugares do mundo."
+    },
+    {
+      "role": "user",
+      "content": "Na época nós emigramos no navio francês,"
+    },
+    {
+      "role": "user",
+      "content": "no navio formose,"
+    },
+    {
+      "role": "user",
+      "content": "e que vinha várias comunidades europeias,"
+    },
+    {
+      "role": "user",
+      "content": "tavam migrand,"
+    },
+    {
+      "role": "user",
+      "content": "os italianos,"
+    },
+    {
+      "role": "user",
+      "content": "os espanhóis,"
+    },
+    {
+      "role": "user",
+      "content": "os árabes, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Numa viagem que durou 18 dias."
+    },
+    {
+      "role": "assistant",
+      "content": "Você se lembra daí, você tinha 8 anos."
+    },
+    {
+      "role": "user",
+      "content": "Eu estou me lembrando disso, eu me lembro perfeitamente."
+    },
+    {
+      "role": "user",
+      "content": "Foi uma coisa tão marcante,"
+    },
+    {
+      "role": "user",
+      "content": "eu cheguei no Senegal,"
+    },
+    {
+      "role": "user",
+      "content": "paramos no Senegal,"
+    },
+    {
+      "role": "user",
+      "content": "vi preto pela primeira vez na minha vida."
+    },
+    {
+      "role": "user",
+      "content": "Eu não tinha na minha comunidade,"
+    },
+    {
+      "role": "user",
+      "content": "a gente vivia ali em rua Estreita,"
+    },
+    {
+      "role": "user",
+      "content": "fechada numa comunidade pequena,"
+    },
+    {
+      "role": "user",
+      "content": "e em Portugal eu vi,"
+    },
+    {
+      "role": "user",
+      "content": "e achei um pessoal bonito,"
+    },
+    {
+      "role": "user",
+      "content": "que tinha umas túnicas brancas,"
+    },
+    {
+      "role": "user",
+      "content": "dentes bem alvos,"
+    },
+    {
+      "role": "user",
+      "content": "e muçulmanos,"
+    },
+    {
+      "role": "user",
+      "content": "que os rezavam fazendo..."
+    },
+    {
+      "role": "user",
+      "content": "Então, isso foi no Senegal."
+    },
+    {
+      "role": "user",
+      "content": "Eu lembro disso como se fosse,"
+    },
+    {
+      "role": "user",
+      "content": "como tivesse vente isso hoje."
+    },
+    {
+      "role": "user",
+      "content": "E aí, pegamos lá, chegamos no Brasil,"
+    },
+    {
+      "role": "user",
+      "content": "depois de 18 dias de travessia."
+    },
+    {
+      "role": "user",
+      "content": "Santos, chegamos em Santos."
+    },
+    {
+      "role": "user",
+      "content": "viramos para Campinas diretamente,"
+    },
+    {
+      "role": "user",
+      "content": "que é onde a gente mora,"
+    },
+    {
+      "role": "user",
+      "content": "porque eu tinha parentes aqui,"
+    },
+    {
+      "role": "user",
+      "content": "que na época a gente vinha para trabalhar na lavoura,"
+    },
+    {
+      "role": "user",
+      "content": "tinha uma carta de chamada,"
+    },
+    {
+      "role": "user",
+      "content": "e a gente vinha para uma..."
+    },
+    {
+      "role": "user",
+      "content": "com atividades de demarcadas"
+    },
+    {
+      "role": "user",
+      "content": "para trabalhar na agricultura,"
+    },
+    {
+      "role": "user",
+      "content": "e no projeto que na época existia,"
+    },
+    {
+      "role": "user",
+      "content": "para desenvolvimento da agricultura do país."
+    },
+    {
+      "role": "user",
+      "content": "Se desenvolvia aqui,"
+    },
+    {
+      "role": "user",
+      "content": "a questão da cultura do café e tal,"
+    },
+    {
+      "role": "user",
+      "content": "a gente vinha para trabalhar na agricultura."
+    },
+    {
+      "role": "user",
+      "content": "Mas meu pai achou que... tinha obrigação"
+    },
+    {
+      "role": "user",
+      "content": "de fazer isso quatro anos."
+    },
+    {
+      "role": "user",
+      "content": "Depois, podia..."
+    },
+    {
+      "role": "user",
+      "content": "Mas ele não se ative essa determinação,"
+    },
+    {
+      "role": "user",
+      "content": "porque, acho que quando você trabalhou muito precárias,"
+    },
+    {
+      "role": "user",
+      "content": "dinheiro quase não tinha,"
+    },
+    {
+      "role": "user",
+      "content": "muito mal tinha dinheiro para pagar"
+    },
+    {
+      "role": "user",
+      "content": "as despesas que a gente tinha feito na imigração."
+    },
+    {
+      "role": "user",
+      "content": "Então, foi um começo muito duro,"
+    },
+    {
+      "role": "user",
+      "content": "muito difícil, muito duro, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Longes da família, longe de..."
+    },
+    {
+      "role": "user",
+      "content": "Então, nessa altura, me lembro muito bem"
+    },
+    {
+      "role": "user",
+      "content": "que foi o momento que eu me lembro bem"
+    },
+    {
+      "role": "user",
+      "content": "para que eu signifique que teve algum impacto na minha vida."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu fui passear aqui,"
+    },
+    {
+      "role": "user",
+      "content": "morar em Campinas, na periferia da cidade,"
+    },
+    {
+      "role": "user",
+      "content": "lá na região..."
+    },
+    {
+      "role": "user",
+      "content": "Quase no limite da cidade."
+    },
+    {
+      "role": "user",
+      "content": "Ali ficamos morando lá."
+    },
+    {
+      "role": "user",
+      "content": "Meu pai começou a trabalhar."
+    },
+    {
+      "role": "user",
+      "content": "Eu fui me matriculei."
+    },
+    {
+      "role": "user",
+      "content": "Minha mãe matriculou no colégio no liceu,"
+    },
+    {
+      "role": "user",
+      "content": "que era um colégio sariziano,"
+    },
+    {
+      "role": "user",
+      "content": "porque ela não gostou do..."
+    },
+    {
+      "role": "user",
+      "content": "Eu já tinha feito o primeiro ano em Portugal,"
+    },
+    {
+      "role": "user",
+      "content": "eu tinha sete anos, já sabia ler, estava alfabetizado."
+    },
+    {
+      "role": "user",
+      "content": "E..."
+    },
+    {
+      "role": "user",
+      "content": "Ela foi ver as condições das escolas, não achou boa."
+    },
+    {
+      "role": "user",
+      "content": "E uma das escolas melhores era o Liceu."
+    },
+    {
+      "role": "user",
+      "content": "Só que o Liceu era um colégio pago."
+    },
+    {
+      "role": "user",
+      "content": "Eu não tinha dinheiro nenhum."
+    },
+    {
+      "role": "user",
+      "content": "Então, ela foi lá e me pediu..."
+    },
+    {
+      "role": "user",
+      "content": "Eu fui incluído como aluno gratuito da Liceu."
+    },
+    {
+      "role": "user",
+      "content": "Fiztoda a minha formação básica e me aceitaram."
+    },
+    {
+      "role": "user",
+      "content": "Eu fui aluno do Liceu de 1950, 1951,"
+    },
+    {
+      "role": "user",
+      "content": "até terminar o colégio,"
+    },
+    {
+      "role": "user",
+      "content": "quando foi procurar saber o que eu ia fazer da minha vida,"
+    },
+    {
+      "role": "user",
+      "content": "aí, para o maior, e já estava bem adaptado às condições do Brasil."
+    },
+    {
+      "role": "user",
+      "content": "Já tinha até o sotaque, já tinha perdido."
+    },
+    {
+      "role": "user",
+      "content": "Entendeu? Porque no começo eu tinha um sotaque carregado, claro."
+    },
+    {
+      "role": "user",
+      "content": "E, com o tempo, eu me adaptei rápido,"
+    },
+    {
+      "role": "user",
+      "content": "porque isso trazia alguns inconvenientes,"
+    },
+    {
+      "role": "user",
+      "content": "você fala, po."
+    },
+    {
+      "role": "user",
+      "content": "Então, eu comecei a me ajustar,"
+    },
+    {
+      "role": "user",
+      "content": "e passei a cuidar da minha..."
+    },
+    {
+      "role": "user",
+      "content": "o que eu ia fazer."
+    },
+    {
+      "role": "user",
+      "content": "Aliás, essa formação inicial,"
+    },
+    {
+      "role": "user",
+      "content": "lá no colégio,"
+    },
+    {
+      "role": "user",
+      "content": "foi fundamental para a gente ter uma visão"
+    },
+    {
+      "role": "user",
+      "content": "um pouco mais abrangente do mundo."
+    },
+    {
+      "role": "user",
+      "content": "Porque a gente..."
+    },
+    {
+      "role": "user",
+      "content": "o que a gente tinha que fazer aqui,"
+    },
+    {
+      "role": "user",
+      "content": "é uma atividade."
+    },
+    {
+      "role": "user",
+      "content": "Meu pai foi trabalhar na carpinteira."
+    },
+    {
+      "role": "user",
+      "content": "Ele era talentoso, muito talentoso."
+    },
+    {
+      "role": "user",
+      "content": "Ele tinha muito destaque."
+    },
+    {
+      "role": "user",
+      "content": "Quando ele fazia o pessoal reconhecia o trabalho,"
+    },
+    {
+      "role": "user",
+      "content": "mas ele não podia nem ser registrado,"
+    },
+    {
+      "role": "user",
+      "content": "ele tinha até quatro anos de carteira de agricultura."
+    },
+    {
+      "role": "user",
+      "content": "Então, geralmente, ficava em trabalho"
+    },
+    {
+      "role": "user",
+      "content": "meio de empreitada e tal, etc."
+    },
+    {
+      "role": "user",
+      "content": "Aí, ele foi fazer desmatamento no Norte do paraná Paraná,"
+    },
+    {
+      "role": "user",
+      "content": "para o Mato Paraná."
+    },
+    {
+      "role": "user",
+      "content": "E aí, as coisas se formavam,"
+    },
+    {
+      "role": "user",
+      "content": "trabalhar em Maringá,"
+    },
+    {
+      "role": "user",
+      "content": "Paranavaí, Norte Novo, etc."
+    },
+    {
+      "role": "user",
+      "content": "Eu recomecei depois que eu já estava terminando a faculdade,"
+    },
+    {
+      "role": "user",
+      "content": "e fui para a Londrina,"
+    },
+    {
+      "role": "user",
+      "content": "até para remitir um pouco a história de que eles tinham feito lá."
+    },
+    {
+      "role": "user",
+      "content": "E foi aí que as coisas se encaminharam"
+    },
+    {
+      "role": "user",
+      "content": "para ter uma universidade,"
+    },
+    {
+      "role": "user",
+      "content": "queria ficar no Rio de Janeiro,"
+    },
+    {
+      "role": "user",
+      "content": "unica escola que eu prestei em São Paulo,"
+    },
+    {
+      "role": "user",
+      "content": "foi a PUC de São Paulo,"
+    },
+    {
+      "role": "user",
+      "content": "porque eu fui fazer vestibular lá no Rio de Janeiro,"
+    },
+    {
+      "role": "user",
+      "content": "que eu queria ficar na faculdade de medicina da Praia Vermelha,"
+    },
+    {
+      "role": "user",
+      "content": "a Escola Nacional de Medicina,"
+    },
+    {
+      "role": "user",
+      "content": "a Escola Tradicional,"
+    },
+    {
+      "role": "user",
+      "content": "e a gente tinha comunidade portuguesa,"
+    },
+    {
+      "role": "user",
+      "content": "ela era muito forte,"
+    },
+    {
+      "role": "user",
+      "content": "então, queria de certa maneira me aproximar lá."
+    },
+    {
+      "role": "user",
+      "content": "Eu fiz um exame lá,"
+    },
+    {
+      "role": "user",
+      "content": "mas eu fui reprovado no último exame,"
+    },
+    {
+      "role": "user",
+      "content": "voltei para São Paulo,"
+    },
+    {
+      "role": "user",
+      "content": "e eu fiz vestibular,"
+    },
+    {
+      "role": "user",
+      "content": "eu fiz exame no Maracanã,"
+    },
+    {
+      "role": "user",
+      "content": "e foi uma epopeia."
+    },
+    {
+      "role": "user",
+      "content": "Aí tinha concurso,"
+    },
+    {
+      "role": "user",
+      "content": "aqui na universidade,"
+    },
+    {
+      "role": "user",
+      "content": "ainda aberta na PUC de São Paulo,"
+    },
+    {
+      "role": "user",
+      "content": "40 vagas,"
+    },
+    {
+      "role": "user",
+      "content": "eu prestei, passei,"
+    },
+    {
+      "role": "user",
+      "content": "passei o 29º lugar."
+    },
+    {
+      "role": "assistant",
+      "content": "Que ano é esse?"
+    },
+    {
+      "role": "user",
+      "content": "Foi 1962,"
+    },
+    {
+      "role": "user",
+      "content": "passei para a faculdade lá."
+    },
+    {
+      "role": "user",
+      "content": "E a minha vida...,"
+    },
+    {
+      "role": "user",
+      "content": "veio para a frente,"
+    },
+    {
+      "role": "user",
+      "content": "passou a ser uma vida,"
+    },
+    {
+      "role": "user",
+      "content": "tipo, com qualquer pessoa que vivia no país,"
+    },
+    {
+      "role": "user",
+      "content": "com o contato com a universidade,"
+    },
+    {
+      "role": "user",
+      "content": "e eu achei que as minhas origens portuguesas"
+    },
+    {
+      "role": "user",
+      "content": "ficaram na casa muito mais na minha intimidade"
+    },
+    {
+      "role": "user",
+      "content": "e com meus hábitos, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Mas sempre voltamos,"
+    },
+    {
+      "role": "user",
+      "content": "meu pai tinha um compromisso,"
+    },
+    {
+      "role": "user",
+      "content": "que lá na época,"
+    },
+    {
+      "role": "user",
+      "content": "quando ele veio para cá,"
+    },
+    {
+      "role": "user",
+      "content": "ele, o Látimos,"
+    },
+    {
+      "role": "user",
+      "content": "tinha, no local,"
+    },
+    {
+      "role": "user",
+      "content": "sempre tinha algumas personalidades,"
+    },
+    {
+      "role": "user",
+      "content": "que eram ligadas à ditadura militar,"
+    },
+    {
+      "role": "user",
+      "content": "que de certa maneira,"
+    },
+    {
+      "role": "user",
+      "content": "tinha uma regência sobre regional,"
+    },
+    {
+      "role": "user",
+      "content": "sobre as atividades lá."
+    },
+    {
+      "role": "user",
+      "content": "E quando meu pai falou que via em Brasil,"
+    },
+    {
+      "role": "user",
+      "content": "ele falou, mas tu não precisa de imigrar,"
+    },
+    {
+      "role": "user",
+      "content": "meu pai sabia trabalhar,"
+    },
+    {
+      "role": "user",
+      "content": "tu não precisa de ir embora."
+    },
+    {
+      "role": "user",
+      "content": "Mas não, tal, queremos ir embora,"
+    },
+    {
+      "role": "user",
+      "content": "então ele falou, tá bem."
+    },
+    {
+      "role": "user",
+      "content": "Então, vou fazer o seguinte,"
+    },
+    {
+      "role": "user",
+      "content": "tens de dez anos,"
+    },
+    {
+      "role": "user",
+      "content": "se não ficar rico em dez anos,"
+    },
+    {
+      "role": "user",
+      "content": "vem embora,"
+    },
+    {
+      "role": "user",
+      "content": "volta para cá."
+    },
+    {
+      "role": "user",
+      "content": "Então,"
+    },
+    {
+      "role": "user",
+      "content": "e o meu pai, disse,"
+    },
+    {
+      "role": "user",
+      "content": "que em dez anos é muito difícil,"
+    },
+    {
+      "role": "user",
+      "content": "tem de entrar,"
+    },
+    {
+      "role": "user",
+      "content": "mas ele veio, mas ele foi bem."
+    },
+    {
+      "role": "user",
+      "content": "Então depois de dez anos,"
+    },
+    {
+      "role": "user",
+      "content": "não estava rico, mas estava encaminhado,"
+    },
+    {
+      "role": "user",
+      "content": "tinha casa,"
+    },
+    {
+      "role": "user",
+      "content": "eu já estava na faculdade,"
+    },
+    {
+      "role": "user",
+      "content": "e nós fomos em Portugal,"
+    },
+    {
+      "role": "user",
+      "content": "fazer uma, voltar,"
+    },
+    {
+      "role": "user",
+      "content": "para dar uma resposta,"
+    },
+    {
+      "role": "user",
+      "content": "nos primeiros anos aqui,"
+    },
+    {
+      "role": "user",
+      "content": "então fui lá, revi minha família,"
+    },
+    {
+      "role": "user",
+      "content": "tudo tão diferente,"
+    },
+    {
+      "role": "user",
+      "content": "que imaginava coisas grandiosas,"
+    },
+    {
+      "role": "user",
+      "content": "eram menores."
+    },
+    {
+      "role": "user",
+      "content": "Aí o fomos lá visitar,"
+    },
+    {
+      "role": "user",
+      "content": "o Dr. Manoel Labraveia,"
+    },
+    {
+      "role": "user",
+      "content": "desembargador, da justiça e tal,"
+    },
+    {
+      "role": "user",
+      "content": "recebeu a gente na casa dele,"
+    },
+    {
+      "role": "user",
+      "content": "tal, o meu pai contou,"
+    },
+    {
+      "role": "user",
+      "content": "comentei, tá muito bem,"
+    },
+    {
+      "role": "user",
+      "content": "e o meu pai trouxe duas caixas de charutos,"
+    },
+    {
+      "role": "user",
+      "content": "na paía, essa de charutos famosa,"
+    },
+    {
+      "role": "user",
+      "content": "levou duas caixas,"
+    },
+    {
+      "role": "user",
+      "content": "e chegou com o Dr. Manoel,"
+    },
+    {
+      "role": "user",
+      "content": "ofereceu o charuto, pra ele fumar o charuto,"
+    },
+    {
+      "role": "user",
+      "content": "eu estava junto com o meu pai lá,"
+    },
+    {
+      "role": "user",
+      "content": "tinha dezesseis anos,"
+    },
+    {
+      "role": "user",
+      "content": "ou coisa assim,"
+    },
+    {
+      "role": "user",
+      "content": "eu estava junto, falei, poxa,"
+    },
+    {
+      "role": "user",
+      "content": "e o Dr. Manoel falou, tal,"
+    },
+    {
+      "role": "user",
+      "content": "aprovou que ele estava bem,"
+    },
+    {
+      "role": "user",
+      "content": "achou que podia,"
+    },
+    {
+      "role": "user",
+      "content": "estava bem encaminhado,"
+    },
+    {
+      "role": "user",
+      "content": "entendeu, aprovou a estadia,"
+    },
+    {
+      "role": "user",
+      "content": "que tinha tido dizer,"
+    },
+    {
+      "role": "user",
+      "content": "de alguma maneira,"
+    },
+    {
+      "role": "user",
+      "content": "estava sendo exitosa."
+    },
+    {
+      "role": "user",
+      "content": "Aí ele,"
+    },
+    {
+      "role": "user",
+      "content": "meu pai deu uma caixa de charuto,"
+    },
+    {
+      "role": "user",
+      "content": "ele lembra, experimentou o charuto,"
+    },
+    {
+      "role": "user",
+      "content": "acendeu,"
+    },
+    {
+      "role": "user",
+      "content": "o charuto,"
+    },
+    {
+      "role": "user",
+      "content": "eu olho, aquilo é feio,"
+    },
+    {
+      "role": "user",
+      "content": "cheiro, ainda mais criança,"
+    },
+    {
+      "role": "user",
+      "content": "cheirando,"
+    },
+    {
+      "role": "user",
+      "content": "aquele cheiro forte,"
+    },
+    {
+      "role": "user",
+      "content": "eu vi, e ele perguntou ao meu pai,"
+    },
+    {
+      "role": "user",
+      "content": "Tens mais?"
+    },
+    {
+      "role": "user",
+      "content": "ele tinha uma caixa,"
+    },
+    {
+      "role": "user",
+      "content": "duas caixas,"
+    },
+    {
+      "role": "user",
+      "content": "uma caixa que tinha levado lá,"
+    },
+    {
+      "role": "user",
+      "content": "o Dr. Manoel, e deu,"
+    },
+    {
+      "role": "user",
+      "content": "deu um pra ele,"
+    },
+    {
+      "role": "user",
+      "content": "ele falou,"
+    },
+    {
+      "role": "user",
+      "content": "ele falou, tenho,"
+    },
+    {
+      "role": "user",
+      "content": "ele trouxe pra dar pros meus amigos,"
+    },
+    {
+      "role": "user",
+      "content": "ele falou, tenho,"
+    },
+    {
+      "role": "user",
+      "content": "dá-os pra mim,"
+    },
+    {
+      "role": "user",
+      "content": "porque eles não sabem aproveitar isso."
+    },
+    {
+      "role": "user",
+      "content": "E era, você viu,"
+    },
+    {
+      "role": "user",
+      "content": "a cabeça do cara,"
+    },
+    {
+      "role": "user",
+      "content": "que era fascista,"
+    },
+    {
+      "role": "user",
+      "content": "que são os ignorantes."
+    },
+    {
+      "role": "user",
+      "content": "Dá-os pra mim, que eu sei apreciar,"
+    },
+    {
+      "role": "user",
+      "content": "ele não sabe."
+    },
+    {
+      "role": "user",
+      "content": "Então, eu olhei, falei,"
+    },
+    {
+      "role": "user",
+      "content": "pô, estou aqui,"
+    },
+    {
+      "role": "user",
+      "content": "as coisas estão,"
+    },
+    {
+      "role": "user",
+      "content": "já entendi como é que as coisas aqui funcionam,"
+    },
+    {
+      "role": "user",
+      "content": "mas fiquei lá uns três meses,"
+    },
+    {
+      "role": "user",
+      "content": "depois vi pra Campinas,"
+    },
+    {
+      "role": "user",
+      "content": "aqui um tino, voltamos aqui, né,"
+    },
+    {
+      "role": "user",
+      "content": "ai fui pra são paulo,"
+    },
+    {
+      "role": "user",
+      "content": "vou fazer minha formação em Médica,"
+    },
+    {
+      "role": "user",
+      "content": "cursinho, faculdade,"
+    },
+    {
+      "role": "user",
+      "content": "essa história é uma história que,"
+    },
+    {
+      "role": "user",
+      "content": "acho que eu mais ou menos gosto de história"
+    },
+    {
+      "role": "user",
+      "content": "de todas as pessoas."
+    },
+    {
+      "role": "assistant",
+      "content": "História linda,"
+    },
+    {
+      "role": "user",
+      "content": "história bem, bem,"
+    },
+    {
+      "role": "user",
+      "content": "bem normal, sem intercorrências,"
+    },
+    {
+      "role": "user",
+      "content": "sem intercorrências,"
+    },
+    {
+      "role": "user",
+      "content": "tudo com saúde, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Graças a Deus, meu pai foi pro,"
+    },
+    {
+      "role": "user",
+      "content": "paraná"
+    },
+    {
+      "role": "user",
+      "content": "Meu pai é uma pessoa."
+    },
+    {
+      "role": "user",
+      "content": "acho que ela tinha vacinado contra a varíola,"
+    },
+    {
+      "role": "user",
+      "content": "e pouco mais, né"
+    },
+    {
+      "role": "user",
+      "content": "Foi por um lugar que era endêmica de monte de doenças"
+    },
+    {
+      "role": "user",
+      "content": "que eu fui lá trabalhar nessas áreas,"
+    },
+    {
+      "role": "user",
+      "content": "porque foi justamente a área que eu fui escolher,"
+    },
+    {
+      "role": "user",
+      "content": "entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Tinha esquisoyomose, leishmanhose,"
+    },
+    {
+      "role": "user",
+      "content": "monte de doenças endêmicas,"
+    },
+    {
+      "role": "user",
+      "content": "malária,"
+    },
+    {
+      "role": "user",
+      "content": "tem algumas áreas que tinha resíduo de malária,"
+    },
+    {
+      "role": "user",
+      "content": "entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Não pegou nunca nada, absolutamente nada,"
+    },
+    {
+      "role": "user",
+      "content": "entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Então, o que eu dizer, teve sorte também,"
+    },
+    {
+      "role": "user",
+      "content": "teve sorte,"
+    },
+    {
+      "role": "user",
+      "content": "mas,"
+    },
+    {
+      "role": "user",
+      "content": "além disso, uma característica"
+    },
+    {
+      "role": "user",
+      "content": "ele"
+    },
+    {
+      "role": "user",
+      "content": "dizia que ele,"
+    },
+    {
+      "role": "user",
+      "content": "quando ele chegou no Norte do Paraná"
+    },
+    {
+      "role": "user",
+      "content": "para fazer desmatamento,"
+    },
+    {
+      "role": "user",
+      "content": "não tinha nada de estrada,"
+    },
+    {
+      "role": "user",
+      "content": "estrada eram todas, estrada de areia vermelha,"
+    },
+    {
+      "role": "user",
+      "content": "terra vermelha,"
+    },
+    {
+      "role": "user",
+      "content": "ele foi se ajustando lá,"
+    },
+    {
+      "role": "user",
+      "content": "quem que trabalhava lá só,"
+    },
+    {
+      "role": "user",
+      "content": "jagunços,"
+    },
+    {
+      "role": "user",
+      "content": "cortando o mato,"
+    },
+    {
+      "role": "user",
+      "content": "uma boa parte"
+    },
+    {
+      "role": "user",
+      "content": "foragidos da Justiça,"
+    },
+    {
+      "role": "user",
+      "content": "estava lá espalhado lá, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Que era a comunidade ali,"
+    },
+    {
+      "role": "user",
+      "content": "entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Viver nisso aí é interessante,"
+    },
+    {
+      "role": "user",
+      "content": "que as pessoas têm muito jeito,"
+    },
+    {
+      "role": "user",
+      "content": "muito"
+    },
+    {
+      "role": "user",
+      "content": "capacidade da adaptação"
+    },
+    {
+      "role": "user",
+      "content": "para poder ficar numa área dessas,"
+    },
+    {
+      "role": "user",
+      "content": "e conseguir sobreviver,"
+    },
+    {
+      "role": "user",
+      "content": "entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Eles ficaram lá,"
+    },
+    {
+      "role": "user",
+      "content": "até que ele resolveu que ele ia morar no Norte Paraná,"
+    },
+    {
+      "role": "user",
+      "content": "nós estamos aqui em Campinas,"
+    },
+    {
+      "role": "user",
+      "content": "levou minha mãe para lá, ficamos lá,"
+    },
+    {
+      "role": "user",
+      "content": "minha mãe, eu fiquei interno no colégio,"
+    },
+    {
+      "role": "user",
+      "content": "entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "E a minha mãe"
+    },
+    {
+      "role": "user",
+      "content": "foi lá para o Norte do Paraná,"
+    },
+    {
+      "role": "user",
+      "content": "8 dias depois ela voltou,"
+    },
+    {
+      "role": "user",
+      "content": "ele e ela já enfrentou,"
+    },
+    {
+      "role": "user",
+      "content": "ela trouxe tudo,"
+    },
+    {
+      "role": "user",
+      "content": "falou, não, não dá,"
+    },
+    {
+      "role": "user",
+      "content": "aí eu"
+    },
+    {
+      "role": "user",
+      "content": "começava a trabalhar aqui já,"
+    },
+    {
+      "role": "user",
+      "content": "esqueceram a aventura do Norte do Paraná,"
+    },
+    {
+      "role": "user",
+      "content": "isso certamente se a gente"
+    },
+    {
+      "role": "user",
+      "content": "tivesse sobrevivido lá,"
+    },
+    {
+      "role": "user",
+      "content": "era que estava desbravanto,"
+    },
+    {
+      "role": "user",
+      "content": "a abertura de café, o café"
+    },
+    {
+      "role": "user",
+      "content": "estava chegando em Londrina,"
+    },
+    {
+      "role": "user",
+      "content": "entendeu? Você desmatava, plantava café,"
+    },
+    {
+      "role": "user",
+      "content": "desmatava, plantava café,"
+    },
+    {
+      "role": "user",
+      "content": "e a ocupação da terra,"
+    },
+    {
+      "role": "user",
+      "content": "tem uma certa liberdade"
+    },
+    {
+      "role": "user",
+      "content": "para você"
+    },
+    {
+      "role": "user",
+      "content": "ocupar o espaço lá,"
+    },
+    {
+      "role": "user",
+      "content": "ter a posse"
+    },
+    {
+      "role": "user",
+      "content": "era mais ou menos"
+    },
+    {
+      "role": "user",
+      "content": "em uma maneira mais simples,"
+    },
+    {
+      "role": "user",
+      "content": "você não precisava comprar uma fazenda,"
+    },
+    {
+      "role": "user",
+      "content": "e o bom"
+    },
+    {
+      "role": "user",
+      "content": "isso aí, isso aí"
+    },
+        {
+      "role": "user",
+      "content": "Talvez isso tenha sido um certo exemplo do jeito que os portugueses ocupavam o espaço por aqui, né?"
+    },
+    {
+      "role": "user",
+      "content": "Eles vinham, entendo, estavam sem medo, né?"
+    },
+    {
+      "role": "user",
+      "content": "E outra coisa, eu nunca ouvi resistência, eu nunca me senti pelo fato de ser português, estrangeiro, etc."
+    },
+    {
+      "role": "user",
+      "content": "Eu naturalizei quando terminou o curso de medicina."
+    },
+    {
+      "role": "user",
+      "content": "Porque aí, precisava ter emprego público, que essas coisas foi naturalizada."
+    },
+    {
+      "role": "user",
+      "content": "Foi a única vez que eu me apresentei para servir no exército brasileiro,"
+    },
+    {
+      "role": "user",
+      "content": "chamava os estudantes de medicina aqui, convocados para fazer uma..."
+    },
+    {
+      "role": "user",
+      "content": "Para servir no exército, não."
+    },
+    {
+      "role": "user",
+      "content": "Eu era novo, solteiro, então e me apresentei"
+    },
+        {
+      "role": "assistant",
+      "content": "E depois, sua esposa?"
+    },
+    {
+      "role": "user",
+      "content": "Então, nos casamos em 1969."
+    },
+    {
+      "role": "user",
+      "content": "Segundo o ano de residencia,"
+    },
+    {
+      "role": "user",
+      "content": "de médica, nós casamos,"
+    },
+    {
+      "role": "user",
+      "content": "vivemos os nossos filhos,"
+    },
+    {
+      "role": "user",
+      "content": "educando nos nossos filhos,"
+    },
+    {
+      "role": "user",
+      "content": "uma pessoa que companhia era absolutamente dedicada,"
+    },
+    {
+      "role": "user",
+      "content": "dedicou a vida dela,"
+    },
+    {
+      "role": "user",
+      "content": "aquele que fez o que pode para..."
+    },
+    {
+      "role": "user",
+      "content": "e ela morreu em 2022."
+    },
+    {
+      "role": "user",
+      "content": "Então, logo quando terminou a pandemia de Covid,"
+    },
+    {
+      "role": "user",
+      "content": "ela teve uma morte súbita, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "E a vida aí mudou novamente,"
+    },
+    {
+      "role": "user",
+      "content": "aqueles trancos na vida."
+    },
+    {
+      "role": "user",
+      "content": "Já tava tudo mais ou menos determinado,"
+    },
+    {
+      "role": "user",
+      "content": "eu já estava pensando em encerrar a carreira,"
+    },
+    {
+      "role": "user",
+      "content": "mas aí as coisas começaram tudo de novo,"
+    },
+    {
+      "role": "user",
+      "content": "e foi há quatro anos atrás,"
+    },
+    {
+      "role": "user",
+      "content": "praticamente há quatro anos."
+    },
+    {
+      "role": "user",
+      "content": "E tudo bem, mas foi uma convivência muito boa,"
+    },
+    {
+      "role": "user",
+      "content": "os filhos caminharam."
+    },
+    {
+      "role": "user",
+      "content": "Todos seguiram a área que queriam,"
+    },
+    {
+      "role": "user",
+      "content": "o que queriam, sem naturalmente."
+    },
+    {
+      "role": "user",
+      "content": "Eu acho que a vida mais ou menos sossegada"
+    },
+    {
+      "role": "user",
+      "content": "no sentido geral,"
+    },
+    {
+      "role": "user",
+      "content": "sem percalços."
+    },
+    {
+      "role": "user",
+      "content": "Primeiro foi esse,"
+    },
+    {
+      "role": "user",
+      "content": "e isso foi uma interrupção"
+    },
+    {
+      "role": "user",
+      "content": "dessa história termina aí,"
+    },
+    {
+      "role": "user",
+      "content": "essa primeira história termina aí."
+    },
+    {
+      "role": "user",
+      "content": "Para frente agora, a gente tinha..."
+    },
+    {
+      "role": "user",
+      "content": "fizemos a..."
+    },
+    {
+      "role": "user",
+      "content": "que, nesse tudo, já estavam casados,"
+    },
+    {
+      "role": "user",
+      "content": "já estavam adultos, já tinham netos."
+    },
+    {
+      "role": "user",
+      "content": "Aí foi o ponto final dessa,"
+    },
+    {
+      "role": "user",
+      "content": "nessa primeira fase."
+    },
+    {
+      "role": "user",
+      "content": "Tô reiniciando uma outra agora."
+    },
+    {
+      "role": "user",
+      "content": "Eu cheguei na posição que foi a seguinte,"
+    },
+    {
+      "role": "user",
+      "content": "que que vai ser da minha vida?"
+    },
+    {
+      "role": "user",
+      "content": "Eu tinha 79 anos."
+    },
+    {
+      "role": "user",
+      "content": "O que que vai ser da minha vida?"
+    },
+    {
+      "role": "user",
+      "content": "Pô, entendeu?"
+    },
+    {
+      "role": "assistant",
+      "content": "Se for um baque para sua família inteira,"
+    },
+    {
+      "role": "assistant",
+      "content": "para você ter sido..."
+    },
+    {
+      "role": "user",
+      "content": "Não, não, não, eu fiquei."
+    },
+    {
+      "role": "user",
+      "content": "Tinha casa tudo preparado,"
+    },
+    {
+      "role": "user",
+      "content": "eu não contava com isso."
+    },
+    {
+      "role": "user",
+      "content": "O que que eu vou fazer?"
+    },
+    {
+      "role": "user",
+      "content": "Eu fiquei lá um tempo vivendo na..."
+    },
+    {
+      "role": "user",
+      "content": "dividindo uma casa de..."
+    },
+    {
+      "role": "user",
+      "content": "tinha 500, tantos metros quadrados,"
+    },
+    {
+      "role": "user",
+      "content": "que ocupava meia cama,"
+    },
+    {
+      "role": "user",
+      "content": "sala de televisão e escritório."
+    },
+    {
+      "role": "user",
+      "content": "O restante, ali,"
+    },
+    {
+      "role": "user",
+      "content": "até que falei, bom, agora,"
+    },
+    {
+      "role": "user",
+      "content": "o que que eu vou fazer?"
+    },
+    {
+      "role": "user",
+      "content": "E eu resolvi..."
+    },
+    {
+      "role": "user",
+      "content": "falei, acho que depois de cerca de um ano,"
+    },
+    {
+      "role": "user",
+      "content": "mais ou menos, falei,"
+    },
+    {
+      "role": "user",
+      "content": "começar tudo de novo."
+    },
+    {
+      "role": "user",
+      "content": "Então, nessa, está aí."
+    },
+    {
+      "role": "user",
+      "content": "Estão recomeçando."
+    },
+    {
+      "role": "user",
+      "content": "Sob nova direção."
+    },
+    {
+      "role": "user",
+      "content": "Mas é muito difícil, né?"
+    },
+    {
+      "role": "user",
+      "content": "Eu tive uma oportunidade ainda de rever isso."
+    },
+    {
+      "role": "user",
+      "content": "De reencaminhar."
+    },
+    {
+      "role": "user",
+      "content": "De qualquer maneira, acho que estou..."
+    },
+    {
+      "role": "user",
+      "content": "as coisas estão bem."
+    },
+    {
+      "role": "user",
+      "content": "Acho que estou..."
+    },
+    {
+      "role": "user",
+      "content": "do ponto de vista pessoal estou me sentindo bem."
+    },
+    {
+      "role": "user",
+      "content": "Eu acho que se eu teve alguma falha nessa..."
+    },
+    {
+      "role": "user",
+      "content": "na minha vida aí,"
+    },
+    {
+      "role": "user",
+      "content": "eu acho que..."
+    },
+    {
+      "role": "user",
+      "content": "ele não foram muito graves."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu pude fazer uma carreira do jeito que..."
+    },
+    {
+      "role": "user",
+      "content": "que eu quis."
+    },
+    {
+      "role": "user",
+      "content": "Sem nenhuma dificuldade."
+    },
+    {
+      "role": "user",
+      "content": "Justo de carreira acadêmica,"
+    },
+    {
+      "role": "user",
+      "content": "carreira profissional..."
+    },
+    {
+      "role": "user",
+      "content": "sem dificuldades."
+    },
+    {
+      "role": "assistant",
+      "content": "Qual foi a maior dificuldade que você teve na sua carreira profissional?"
+    },
+    {
+      "role": "assistant",
+      "content": "Você pegou um momento de AIDS complicados, né?"
+    },
+    {
+      "role": "user",
+      "content": "Então, isso não foi um momento..."
+    },
+    {
+      "role": "user",
+      "content": "acho que isso foi um momento de oportunidade."
+    },
+    {
+      "role": "user",
+      "content": "Essa carreira..."
+    },
+    {
+      "role": "user",
+      "content": "Essa carreira tem umas coisas interessantes, né?"
+    },
+    {
+      "role": "user",
+      "content": "Ok, nós estamos falando aqui da carreira, né?"
+    },
+    {
+      "role": "assistant",
+      "content": "Isso, dos desafios."
+    },
+    {
+      "role": "user",
+      "content": "Aí você perguntou qual foi as grandes dificuldades?"
+    },
+    {
+      "role": "user",
+      "content": "Difficuldades, é verdade, viu?"
+    },
+    {
+      "role": "user",
+      "content": "As coisas foram sempre tão naturais, que eu não me lembro de alguma coisa que eu"
+    },
+    {
+      "role": "user",
+      "content": "queria fazer e que eu não fiz."
+    },
+    {
+      "role": "user",
+      "content": "O que eu não fiz foi porque eu não tinha tido, não estava nos meus objetivos de"
+    },
+    {
+      "role": "user",
+      "content": "vida."
+    },
+    {
+      "role": "user",
+      "content": "Então, você falou da questão da AIDS."
+    },
+    {
+      "role": "user",
+      "content": "Ela apareceu no 1982 aqui no Brasil."
+    },
+    {
+      "role": "user",
+      "content": "Foi no 80 no exterior e aqui no 82."
+    },
+    {
+      "role": "user",
+      "content": "Eu tive contato com o primeiro caso de AIDS."
+    },
+    {
+      "role": "user",
+      "content": "Fui eu que diagnostiquei aqui em Campinas."
+    },
+    {
+      "role": "user",
+      "content": "Eu não."
+    },
+    {
+      "role": "user",
+      "content": "Nossa serviço ali, lá na UNICAMP, publicou o primeiro editorial de Aida"
+    },
+    {
+      "role": "user",
+      "content": "no Brasil."
+    },
+    {
+      "role": "user",
+      "content": "Eu publiquei, numa revista científica, dizendo que estava"
+    },
+    {
+      "role": "user",
+      "content": "surgindo uma doença aí que era para arrepiar, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "E foi mais ou menos isso que, assim, aqui que a doença, que"
+    },
+    {
+      "role": "user",
+      "content": "ela realmente teve um impacto na sociedade muito grande."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu vivi isso aí como participando dessa evolução."
+    },
+    {
+      "role": "user",
+      "content": "Foi participando no nível de vanguarda, quer dizer, por"
+    },
+    {
+      "role": "user",
+      "content": "conversa, que falava sobre AIDS no Brasil inteiro."
+    },
+    {
+      "role": "user",
+      "content": "E no exterior tinha uma participação importante,"
+    },
+    {
+      "role": "user",
+      "content": "com as trabalhos de pesquisa, conjuntos, especialmente com"
+    },
+    {
+      "role": "user",
+      "content": "pessoas dos Estados Unidos e de Europa."
+    },
+    {
+      "role": "user",
+      "content": "Aí o deu para..."
+    },
+    {
+      "role": "user",
+      "content": "A gente acompanhou muito bem, mas não foi impacto que tenha me"
+    },
+    {
+      "role": "user",
+      "content": "assustado."
+    },
+    {
+      "role": "user",
+      "content": "Não atrapalhou, minha carreira."
+    },
+    {
+      "role": "user",
+      "content": "Pelo menos acrescentou muita coisa que me deu uma oportunidade"
+    },
+    {
+      "role": "user",
+      "content": "de participar de uma doença emergente."
+    },
+    {
+      "role": "user",
+      "content": "Muita doença emergente."
+    },
+    {
+      "role": "user",
+      "content": "A área de infectologia, que é minha área, tem essa característica."
+    },
+    {
+      "role": "user",
+      "content": "Entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Quando eu cheguei no Brasil em 1950, o Brasil era um país que"
+    },
+    {
+      "role": "user",
+      "content": "estava acabando de encerrar a história da febre amarela."
+    },
+    {
+      "role": "user",
+      "content": "O aedes aegipti estava sendo erradicado do país pelos"
+    },
+    {
+      "role": "user",
+      "content": "Oswaldo Cruz que eu te disse que é uma das figuras da medicina"
+    },
+    {
+      "role": "user",
+      "content": "brasileira, que eu admiro muito, conheço a história dele nos"
+    },
+    {
+      "role": "user",
+      "content": "detalhes."
+    },
+    {
+      "role": "user",
+      "content": "Então, isso estava encerrando uma área começando outra."
+    },
+    {
+      "role": "user",
+      "content": "Brasil é um país muito perigoso, muito rico de patologias."
+    },
+    {
+      "role": "user",
+      "content": "Muita doença emergente, muita doença reemergente."
+    },
+    {
+      "role": "user",
+      "content": "Agora temos o reemergente do febre amarela."
+    },
+    {
+      "role": "user",
+      "content": "Então, eu pude participar disso bem na linha de frente."
+    },
+    {
+      "role": "user",
+      "content": "Eu fiz uma carreira muito agradável e bastante produtiva."
+    },
+    {
+      "role": "user",
+      "content": "Tem algumas contribuições importantes, um pouco em"
+    },
+    {
+      "role": "user",
+      "content": "conhecimento dessas áreas."
+    },
+    {
+      "role": "user",
+      "content": "E também acho que, às vezes eu fico pensando, trabalho muito"
+    },
+    {
+      "role": "user",
+      "content": "com um atendimento para doenças, clínicas de doenças"
+    },
+    {
+      "role": "user",
+      "content": "e uma atividade que não me causa nenhum desconforto, nem"
+    },
+    {
+      "role": "user",
+      "content": "tensão."
+    },
+    {
+      "role": "user",
+      "content": "Embora seja um área que a gente lida com dessas muito graves,"
+    },
+    {
+      "role": "user",
+      "content": "que pode haver atualmente, se o cara está bem hoje, a semana"
+    },
+    {
+      "role": "user",
+      "content": "que vem, não está entre nós."
+    },
+    {
+      "role": "user",
+      "content": "Por uma versão aguda, habitualmente, algumas são"
+    },
+    {
+      "role": "user",
+      "content": "curadas, mas podem reagudizar."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu aprendi a lidar com isso e, principalmente, me preocupei"
+    },
+    {
+      "role": "user",
+      "content": "muito em formar pessoal, que ensinar, ensinar, mas não"
+    },
+    {
+      "role": "user",
+      "content": "ensinar cientistas."
+    },
+    {
+      "role": "user",
+      "content": "Eu formo mesmo pessoal."
+    },
+    {
+      "role": "user",
+      "content": "Por exemplo, a minha preocupação agora é formar médicos,"
+    },
+    {
+      "role": "user",
+      "content": "especialistas nessa área."
+    },
+    {
+      "role": "user",
+      "content": "Então, tem centenas de residentes lá do Unicamp,"
+    },
+    {
+      "role": "user",
+      "content": "foram meus alunos que continuam levando-se em frente"
+    },
+    {
+      "role": "user",
+      "content": "hoje, pode até estar em áreas mais avançadas do que estou."
+    },
+    {
+      "role": "user",
+      "content": "Mas se eles foram despertados nessa hora para isso,"
+    },
+    {
+      "role": "user",
+      "content": "eu tive a condição de fazer isso."
+    },
+    {
+      "role": "user",
+      "content": "É uma oportunidade isso, não é que estar num momento certo,"
+    },
+    {
+      "role": "user",
+      "content": "na hora certa, quando as coisas estão surgindo."
+    },
+    {
+      "role": "user",
+      "content": "Então, tive aí uma, acho que não foi uma participação"
+    },
+    {
+      "role": "user",
+      "content": "assim, que não causou impacto nenhum."
+    },
+    {
+      "role": "user",
+      "content": "Pude participar da implantação dessa área melhor aqui nessa região,"
+    },
+    {
+      "role": "user",
+      "content": "até no estado, viu?"
+    },
+    {
+      "role": "user",
+      "content": "Ajudei, tive cargos na Secretaria da Saúde"
+    },
+    {
+      "role": "user",
+      "content": "para trabalhar nessa área de imunizações, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Fui secretário de saúde em Campinas."
+    },
+    {
+      "role": "user",
+      "content": "Não me neguei a participar disso, porque quando me convidaram,"
+    },
+    {
+      "role": "user",
+      "content": "eu achei esquisito estar me convidando para uma..."
+    },
+    {
+      "role": "user",
+      "content": "porque eu nunca me preparei para ser administrador"
+    },
+    {
+      "role": "user",
+      "content": "de programas de saúde e tal."
+    },
+    {
+      "role": "user",
+      "content": "preocupei em formar gente e trabalhar na universidade."
+    },
+    {
+      "role": "user",
+      "content": "Aí quando surgiu, claro que eu não aceitei, eu falei,"
+    },
+    {
+      "role": "user",
+      "content": "não, vocês estão enganados,"
+    },
+    {
+      "role": "user",
+      "content": "procurem quem é capaz de fazer isso."
+    },
+    {
+      "role": "user",
+      "content": "Eles procuraram, né?"
+    },
+    {
+      "role": "user",
+      "content": "E toda vez que eu ficava vendo quem tinha sido procurado,"
+    },
+    {
+      "role": "user",
+      "content": "era melhor que os cara,"
+    },
+    {
+      "role": "user",
+      "content": "mas o cara é..."
+    },
+    {
+      "role": "user",
+      "content": "Pô, eu vou para você, não?"
+    },
+    {
+      "role": "user",
+      "content": "Isso não tem nada."
+    },
+    {
+      "role": "user",
+      "content": "Eu comecei a ficar desconfiado."
+    },
+    {
+      "role": "user",
+      "content": "Depois de alguns dias aí, o sujeito voltou de novo"
+    },
+    {
+      "role": "user",
+      "content": "e falou, e aí, você topa ou não topa?"
+    },
+    {
+      "role": "user",
+      "content": "Eu já estava achando, quais são as condições, não?"
+    },
+    {
+      "role": "user",
+      "content": "De repente eu virei o secretário de saúde em Campinas,"
+    },
+    {
+      "role": "user",
+      "content": "um milhão de habitantes,"
+    },
+    {
+      "role": "user",
+      "content": "e eu sou responsável pela saúde."
+    },
+    {
+      "role": "user",
+      "content": "E eu falei, o que eu faço agora?"
+    },
+    {
+      "role": "user",
+      "content": "Foi uma experiência espetacular."
+    },
+    {
+      "role": "user",
+      "content": "Entendeu que deu para trabalhar no modelo de saúde, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Acho que fiz uma administração boa,"
+    },
+    {
+      "role": "user",
+      "content": "identifiquei pessoas importantes,"
+    },
+    {
+      "role": "user",
+      "content": "que eram capazes de trabalhar bem nessa área."
+    },
+    {
+      "role": "user",
+      "content": "Isso é uma qualidade que acho que é aonde que eu tenho."
+    },
+    {
+      "role": "user",
+      "content": "Eu sou capaz de identificar pessoas,"
+    },
+    {
+      "role": "user",
+      "content": "são capazes de fazer as coisas melhor que eu."
+    },
+    {
+      "role": "user",
+      "content": "Então, os caras vem trabalhar aqui, pô."
+    },
+    {
+      "role": "user",
+      "content": "Então, na época, nós fizemos uma administração interessante,"
+    },
+    {
+      "role": "user",
+      "content": "acho que foi muito bem avaliada nacionalmente, e tal."
+    },
+    {
+      "role": "user",
+      "content": "E tal, estamos tocando o barco em frente."
+    },
+        {
+      "role": "assistant",
+      "content": "E seus filhos e netos?"
+    },
+    {
+      "role": "user",
+      "content": "Agora já estão, já estão uma outra geração."
+    },
+    {
+      "role": "user",
+      "content": "Meu filho só..."
+    },
+    {
+      "role": "user",
+      "content": "Só Dani que resolveu fazer..."
+    },
+    {
+      "role": "user",
+      "content": "a odontologia contra a minha vontade,"
+    },
+    {
+      "role": "user",
+      "content": "porque eu queria que ela fosse médica."
+    },
+    {
+      "role": "user",
+      "content": "Mas ela é uma pessoa que reage, né?"
+    },
+    {
+      "role": "user",
+      "content": "Então, o fato de eu falar, você precisa ser,"
+    },
+    {
+      "role": "user",
+      "content": "é que ela falou, já sei o que eu vou fazer."
+    },
+    {
+      "role": "user",
+      "content": "Qualquer coisa, menos isso, né?"
+    },
+    {
+      "role": "user",
+      "content": "Bom, foi."
+    },
+    {
+      "role": "user",
+      "content": "No final, foi para agronomia e tal,"
+    },
+    {
+      "role": "user",
+      "content": "na metade ela falou, não é bem por aí."
+    },
+    {
+      "role": "user",
+      "content": "Ela voltou para a área de mestre, só que ela quis fazer odontologia."
+    },
+    {
+      "role": "user",
+      "content": "E tá na área de odontologia, cuidando da vida dela."
+    },
+    {
+      "role": "user",
+      "content": "Mas e os outros todos médicos?"
+    },
+    {
+      "role": "user",
+      "content": "E as minhas netas agora,"
+    },
+    {
+      "role": "user",
+      "content": "têm quatro mulheres, eu sou um especialistas em mulheres."
+    },
+    {
+      "role": "user",
+      "content": "Então, quatro mulheres, todas estão fazendo medicina,"
+    },
+    {
+      "role": "user",
+      "content": "que me deixam muito orgulhosas, né?"
+    },
+    {
+      "role": "user",
+      "content": "Acho que eu não dei mal exemplo,"
+    },
+    {
+      "role": "user",
+      "content": "embora a medicina no Brasil esteja num momentomuito crítico, né?"
+    },
+    {
+      "role": "user",
+      "content": "Já ta em um momento de revisão de conceitos na área médica, né?"
+    },
+    {
+      "role": "user",
+      "content": "De qualquer maneira, é uma área absolutamente impressionantemente rica, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Você pode fazer tudo, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Desde que você goste e que tem algum talento, né?"
+    },
+    {
+      "role": "user",
+      "content": "Então, estão todos encaminhados, acho que o meu exemplo veio por aí."
+    },
+    {
+      "role": "user",
+      "content": "Se eu dei algum mau exemplo, foi sem querer."
+    },
+    {
+      "role": "user",
+      "content": "Eu tenho um neto que não vai ser médico,"
+    },
+    {
+      "role": "user",
+      "content": "já vai ser pensando em outras coisas."
+    },
+    {
+      "role": "user",
+      "content": "Eu perguntei pra ele, vem cá qual o problema?"
+    },
+    {
+      "role": "user",
+      "content": "Ele é mais inteligente que os outros, eu acho que sim, né?"
+    },
+    {
+      "role": "user",
+      "content": "Eu falei, qual o problema?"
+    },
+    {
+      "role": "user",
+      "content": "Você acha que... ele é bem esperto,"
+    },
+    {
+      "role": "user",
+      "content": "ele quer entrar para a engenharia, sei lá,"
+    },
+    {
+      "role": "user",
+      "content": "mas é uma outra visão que eu nunca..."
+    },
+    {
+      "role": "user",
+      "content": "Esse eu nunca consegui influenciar."
+    },
+    {
+      "role": "user",
+      "content": "E esse é o meu panorama, é esse."
+    },
+    {
+      "role": "user",
+      "content": "O Gabriel, o Gabriel, mas está se encaminhando agora"
+    },
+    {
+      "role": "user",
+      "content": "para fazer alguma coisa nas áreas exatas, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Eu acho muito especial."
+    },
+    {
+      "role": "user",
+      "content": "Talvez eu estou olhando, né?"
+    },
+    {
+      "role": "user",
+      "content": "Mas eu não estou muito palpite,"
+    },
+    {
+      "role": "user",
+      "content": "estou deixando essa responsabilidade de orientação"
+    },
+    {
+      "role": "user",
+      "content": "para o outro avó dele, que é físico."
+    },
+    {
+      "role": "user",
+      "content": "Eles são capazes de ir para mãe, para o pai,"
+    },
+    {
+      "role": "user",
+      "content": "para que são, que conhecem,"
+    },
+    {
+      "role": "user",
+      "content": "mas eu acho que realmente é esse."
+    },
+    {
+      "role": "user",
+      "content": "Esse eu não consegui influenciar."
+    },
+    {
+      "role": "user",
+      "content": "Mas ele ainda não terminou, ainda está fazendo,"
+    },
+    {
+      "role": "user",
+      "content": "está no segundo colegial, ou coisa assim,"
+    },
+    {
+      "role": "user",
+      "content": "então ainda tem mais um ano para pensar na vida, viu?"
+    },
+    {
+      "role": "assistant",
+      "content": "Vou te fazer umas colocações rápidas,"
+    },
+    {
+      "role": "assistant",
+      "content": "e você fala sobre elas, tá?"
+    },
+    {
+      "role": "assistant",
+      "content": "No seu coração, um lugar..."
+    },
+    {
+      "role": "user",
+      "content": "Meu coração."
+    },
+    {
+      "role": "assistant",
+      "content": "Um lugar, um lugar de seu coração, assim,"
+    },
+    {
+      "role": "assistant",
+      "content": "quando você fala, um lugar especial"
+    },
+    {
+      "role": "assistant",
+      "content": "no seu coração, um lugar físico no mundo..."
+    },
+    {
+      "role": "user",
+      "content": "Quando eu fico triste, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "É uma ideia que eu me transporto."
+    },
+    {
+      "role": "user",
+      "content": "Interessante, eu me lembro da casa do meu avô"
+    },
+    {
+      "role": "user",
+      "content": "e da minha irmã, da minha irmã em Portugal."
+    },
+    {
+      "role": "user",
+      "content": "Interessante, né?"
+    },
+    {
+      "role": "user",
+      "content": "Para lá."
+    },
+    {
+      "role": "user",
+      "content": "E eu nem me lembro de como é que eu vivia, lá."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu me transporto para lá."
+    },
+    {
+      "role": "user",
+      "content": "E às vezes eu estou irritado com alguma coisa,"
+    },
+    {
+      "role": "user",
+      "content": "não estou nem ouvindo, fico pensando nas coisas, é lá."
+    },
+    {
+      "role": "user",
+      "content": "O cara está falando, eu estou olhando para ele,"
+    },
+    {
+      "role": "user",
+      "content": "mas estou vendo lá como é que era a ruibeira,"
+    },
+    {
+      "role": "user",
+      "content": "como é que era a ser..."
+    },
+    {
+      "role": "user",
+      "content": "Está falando bobagem, eu nem estou ouvindo,"
+    },
+    {
+      "role": "user",
+      "content": "que eu estou transportado para lá."
+    },
+    {
+      "role": "user",
+      "content": "É um lugar assim, é um refúgio."
+    },
+    {
+      "role": "user",
+      "content": "Um lugar que não tem luz elétrica."
+    },
+    {
+      "role": "user",
+      "content": "Não tinha nada de..."
+    },
+    {
+      "role": "user",
+      "content": "A estrada de alcatrão não existia, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Uma comunidade que a gente usava carbureto"
+    },
+    {
+      "role": "user",
+      "content": "e óleo de oliva para fazer candeio, para ver como é."
+    },
+    {
+      "role": "user",
+      "content": "Mas é lá que é o momento que me transporte,"
+    },
+    {
+      "role": "user",
+      "content": "às vezes quando é lá."
+    },
+    {
+      "role": "assistant",
+      "content": "Sua turma conta que você chega em Portugal"
+    },
+    {
+      "role": "assistant",
+      "content": "até sotaque seu muda?"
+    },
+    {
+      "role": "user",
+      "content": "É verdade, eu chego lá e tenho umas recaídas."
+    },
+    {
+      "role": "user",
+      "content": "Eu tenho..."
+    },
+    {
+      "role": "user",
+      "content": "Eu lá me sinto em casa."
+    },
+    {
+      "role": "user",
+      "content": "Entendeu? Ainda."
+    },
+    {
+      "role": "user",
+      "content": "Mas lá ninguém mais me considera português,"
+    },
+    {
+      "role": "user",
+      "content": "todo mundo me considera brasileiro."
+    },
+    {
+      "role": "user",
+      "content": "Eu fico até irritado, mas agora já se me lembro."
+    },
+    {
+      "role": "assistant",
+      "content": "Aqui no Brasil você é Ponte Preta, hein?"
+    },
+    {
+      "role": "user",
+      "content": "Pois é, você vê que a gente..."
+    },
+    {
+      "role": "user",
+      "content": "Ninguém é perfeito, né?"
+    },
+    {
+      "role": "assistant",
+      "content": "Acabou de ser campeã."
+    },
+    {
+      "role": "user",
+      "content": "Pois é, eu pensei que nunca fosse ver,"
+    },
+    {
+      "role": "user",
+      "content": "acabei de ver, falei não é que estou vivendo bastante."
+    },
+    {
+      "role": "user",
+      "content": "Eu estou vendo a Ponte Preta campeã."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu vi para cá desde o começo."
+    },
+    {
+      "role": "user",
+      "content": "Primeira vez que eu fui..."
+    },
+    {
+      "role": "user",
+      "content": "Quando eu estava na quarta série,"
+    },
+    {
+      "role": "user",
+      "content": "eu resolvi ir em um campo de futebol pela primeira vez."
+    },
+    {
+      "role": "user",
+      "content": "Fui ver Ponte Preta e Santos."
+    },
+    {
+      "role": "user",
+      "content": "Puta que pariu, não?"
+    },
+    {
+      "role": "user",
+      "content": "Que má ideia."
+    },
+    {
+      "role": "user",
+      "content": "Claro que o Santos ganhou, né?"
+    },
+    {
+      "role": "user",
+      "content": "Mas fui ver..."
+    },
+    {
+      "role": "user",
+      "content": "Falei, pô, podia ficar com raiva."
+    },
+    {
+      "role": "user",
+      "content": "Não, achei interessante."
+    },
+    {
+      "role": "user",
+      "content": "Fui ver a ponte preta."
+    },
+    {
+      "role": "user",
+      "content": "Mas é uma questão, uma paixão que em algum tempo foi mais forte."
+    },
+    {
+      "role": "user",
+      "content": "Foi..."
+    },
+    {
+      "role": "user",
+      "content": "Agora não me faz mal nenhum."
+    },
+    {
+      "role": "user",
+      "content": "Quando vai mal, eu critico todo mundo."
+    },
+    {
+      "role": "user",
+      "content": "Desopila, né?"
+    },
+    {
+      "role": "user",
+      "content": "Desopila, só para isso."
+    },
+    {
+      "role": "user",
+      "content": "Mas sem..."
+    },
+    {
+      "role": "user",
+      "content": "Continuo gostando, gostando."
+    },
+    {
+      "role": "user",
+      "content": "Foi uma questão, sei lá porquê, não?"
+    },
+    {
+      "role": "user",
+      "content": "Talvez a história da vida, da dificuldade,"
+    },
+    {
+      "role": "user",
+      "content": "do time mais popular, que veio lá debaixo, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Talvez tenha me motivado."
+    },
+    {
+      "role": "assistant",
+      "content": "Em Portugal, como é seu time?"
+    },
+    {
+      "role": "user",
+      "content": "Em Portugal, então."
+    },
+    {
+      "role": "user",
+      "content": "Eu nunca torci para o time português nenhum, viu?"
+    },
+    {
+      "role": "user",
+      "content": "Mas todos os que estão..."
+    },
+    {
+      "role": "user",
+      "content": "Acompanhos que estão..."
+    },
+    {
+      "role": "user",
+      "content": "Mas se eu tivesse la, eu teria torcido para o time."
+    },
+    {
+      "role": "user",
+      "content": "O Sporting, de lisboa."
+    },
+    {
+      "role": "user",
+      "content": "Porque eles acham o time muito simpático."
+    },
+    {
+      "role": "user",
+      "content": "Mas em Coimbra tem um time de futebol,"
+    },
+    {
+      "role": "user",
+      "content": "que é a Acadêmica de Coimbra, que é a branca e preta,"
+    },
+    {
+      "role": "user",
+      "content": "que nem a ponte preta,"
+    },
+    {
+      "role": "user",
+      "content": "que eu fui lá várias vezes assistir jogo de futebol,"
+    },
+    {
+      "role": "user",
+      "content": "do acadêmico."
+    },
+    {
+      "role": "user",
+      "content": "Mas é um time que nem a ponte preta."
+    },
+    {
+      "role": "user",
+      "content": "Vai para a primeira, volta para a segunda,"
+    },
+    {
+      "role": "user",
+      "content": "volta para a primeira,"
+    },
+    {
+      "role": "user",
+      "content": "tem destaque nenhum a nível nacional,"
+    },
+    {
+      "role": "user",
+      "content": "mas é um time da universidade de Coimbra."
+    },
+    {
+      "role": "user",
+      "content": "Entendeu? Super interessante,"
+    },
+    {
+      "role": "user",
+      "content": "no Acadêmica de Coimbra."
+    },
+    {
+      "role": "user",
+      "content": "O pessoal usa capas e tal."
+    },
+    {
+      "role": "user",
+      "content": "É um time tradicional, gostaria muito..."
+    },
+    {
+      "role": "user",
+      "content": "Mas num time nacional assim,"
+    },
+    {
+      "role": "user",
+      "content": "seria Lisboa referente para o futebol,"
+    },
+    {
+      "role": "user",
+      "content": "seria isso."
+    },
+    {
+      "role": "user",
+      "content": "Mas em Coimbra, que é da minha terra,"
+    },
+    {
+      "role": "user",
+      "content": "certamente eu ia ficar acompanhando"
+    },
+    {
+      "role": "user",
+      "content": "o Acadêmica de Coimbra."
+    },
+    {
+      "role": "user",
+      "content": "Esse chama Acadêmica."
+    },
+    {
+      "role": "user",
+      "content": "Não é Acadêmico."
+    },
+    {
+      "role": "user",
+      "content": "Acadêmica."
+    },
+    {
+      "role": "assistant",
+      "content": "Legal."
+    },
+    {
+      "role": "assistant",
+      "content": "Um defeito seu."
+    },
+    {
+      "role": "user",
+      "content": "Acho que eu falo muito."
+    },
+    {
+      "role": "user",
+      "content": "É uma coisa interessante, né?"
+    },
+    {
+      "role": "user",
+      "content": "Eu tenho um problema psiquiátrico"
+    },
+    {
+      "role": "user",
+      "content": "que eu não reconheço bem os meus defeitos."
+    },
+    {
+      "role": "user",
+      "content": "Eu vejo mais o defeito dos outros."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu acho que eu sou teimoso,"
+    },
+    {
+      "role": "user",
+      "content": "mas com pouco, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Mas não tenho muito."
+    },
+    {
+      "role": "user",
+      "content": "Eu não guardo maldade, rancor,"
+    },
+    {
+      "role": "user",
+      "content": "essas coisas."
+    },
+    {
+      "role": "user",
+      "content": "Não tenho medo."
+    },
+    {
+      "role": "user",
+      "content": "Uma coisa que me impressiona,"
+    },
+    {
+      "role": "user",
+      "content": "Às vezes fica todo mundo apavorado,"
+    },
+    {
+      "role": "user",
+      "content": "eu fico sem saber o que significa medo."
+    },
+    {
+      "role": "user",
+      "content": "O que é medo?"
+    },
+    {
+      "role": "user",
+      "content": "Medo de que, afinal, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Não me apavora."
+    },
+    {
+      "role": "user",
+      "content": "Difícil me apavorar"
+    },
+    {
+      "role": "user",
+      "content": "Talvez que eu não levo um susto,"
+    },
+    {
+      "role": "user",
+      "content": "alguma coisa, mas sim ficar"
+    },
+    {
+      "role": "user",
+      "content": "amedontrado com medo de..."
+    },
+    {
+      "role": "user",
+      "content": "Eu não conheço isso."
+    },
+    {
+      "role": "user",
+      "content": "Talvez seja um defeito que a gente tem que ter medo,"
+    },
+    {
+      "role": "user",
+      "content": "porque a vida tá cheia de coisas perigosas."
+    },
+    {
+      "role": "user",
+      "content": "Mas..."
+    },
+    {
+      "role": "user",
+      "content": "É isso."
+    },
+    {
+      "role": "assistant",
+      "content": "Um arrependimento."
+    },
+    {
+      "role": "user",
+      "content": "Que que fiz que eu não deveria ter feito."
+    },
+    {
+      "role": "assistant",
+      "content": "Ou que você não fez e deveria ter feito?"
+    },
+    {
+      "role": "user",
+      "content": "Eu acho que em um determinado momento"
+    },
+    {
+      "role": "user",
+      "content": "eu dediquei mais as atividades"
+    },
+    {
+      "role": "user",
+      "content": "outra que não a família."
+    },
+    {
+      "role": "user",
+      "content": "Eu acho que isso, depois,"
+    },
+    {
+      "role": "user",
+      "content": "foi uma coisa que eu podia ter revisto, não?"
+    },
+    {
+      "role": "user",
+      "content": "Então, principalmente,"
+    },
+    {
+      "role": "user",
+      "content": "pelo fato de eu ser imigrante."
+    },
+    {
+      "role": "user",
+      "content": "Imigrante tem muitas essas coisas de..."
+    },
+    {
+      "role": "user",
+      "content": "de você estar sempre querendo voltar."
+    },
+    {
+      "role": "user",
+      "content": "Entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "E eu acho que..."
+    },
+    {
+      "role": "user",
+      "content": "Eu neguei isso muitas vezes, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Podia ter..."
+    },
+    {
+      "role": "user",
+      "content": "cuidado melhor desses aspectos aí."
+    },
+    {
+      "role": "user",
+      "content": "Mas, quem..."
+    },
+    {
+      "role": "user",
+      "content": "Talvez tenha sido esse um arrependimento."
+    },
+    {
+      "role": "user",
+      "content": "No restante."
+    },
+    {
+      "role": "user",
+      "content": "Você vê que eu tenho uma..."
+    },
+    {
+      "role": "user",
+      "content": "consideração muito grande por mim."
+    },
+    {
+      "role": "user",
+      "content": "Eu não me lembro de que é que eu deveria"
+    },
+    {
+      "role": "user",
+      "content": "não deveria ter feito e fiz."
+    },
+    {
+      "role": "user",
+      "content": "Mas, realmente,"
+    },
+    {
+      "role": "user",
+      "content": "acho que eu fiz..."
+    },
+    {
+      "role": "user",
+      "content": "Meu trajeto foi sendo criado naturalmente."
+    },
+    {
+      "role": "user",
+      "content": "Não tenho arrependimentos muito grandes."
+    },
+    {
+      "role": "user",
+      "content": "Mas, talvez, se eu tivesse me dedicado mais,"
+    },
+    {
+      "role": "user",
+      "content": "principalmente na..."
+    },
+    {
+      "role": "user",
+      "content": "antes da minha mulher, a Neuza,"
+    },
+    {
+      "role": "user",
+      "content": "eu acho que eu podia ter sido um pouco mais..."
+    },
+    {
+      "role": "user",
+      "content": "sei lá..."
+    },
+    {
+      "role": "user",
+      "content": "Talvez eu não tenha..."
+    },
+    {
+      "role": "user",
+      "content": "ajudado ela a fazer todos os sonhos dela,"
+    },
+    {
+      "role": "user",
+      "content": "essas coisas assim, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Acho que foi mais..."
+    },
+    {
+      "role": "user",
+      "content": "voltado para minhas coisas, entendo?"
+    },
+    {
+      "role": "user",
+      "content": "Talvez isso sere uma coisa que eu pudesse corrigir,"
+    },
+    {
+      "role": "user",
+      "content": "se pudesse. Eu não posso, já foi."
+    },
+    {
+      "role": "assistant",
+      "content": "Você falou do..."
+    },
+    {
+      "role": "assistant",
+      "content": "do primeiro lugar que você me falou,"
+    },
+    {
+      "role": "assistant",
+      "content": "foi a casa sua avô."
+    },
+    {
+      "role": "assistant",
+      "content": "Você fez um lugar muito bacana aqui,"
+    },
+    {
+      "role": "assistant",
+      "content": "que foi Itamambuca, né?"
+    },
+    {
+      "role": "user",
+      "content": "Então, mas, então, não é uma referência forte"
+    },
+    {
+      "role": "user",
+      "content": "para mim. É um lugar bom que vou lá"
+    },
+    {
+      "role": "user",
+      "content": "para..."
+    },
+    {
+      "role": "user",
+      "content": "para meus filhos gostam."
+    },
+    {
+      "role": "user",
+      "content": "Para nós foi..."
+    },
+    {
+      "role": "user",
+      "content": "foi para lá em 1984,"
+    },
+    {
+      "role": "user",
+      "content": "entendeu? Foi uma coisa interessante"
+    },
+    {
+      "role": "user",
+      "content": "que eu estava na faculdade"
+    },
+    {
+      "role": "user",
+      "content": "aqui na Unicamp,"
+    },
+    {
+      "role": "user",
+      "content": "e a faculdade de Medicina de Bragança"
+    },
+    {
+      "role": "user",
+      "content": "Onde estão minhas netasagora,"
+    },
+    {
+      "role": "user",
+      "content": "sofreu uma intervenção"
+    },
+    {
+      "role": "user",
+      "content": "para os ajustes de linha"
+    },
+    {
+      "role": "user",
+      "content": "e a Unicamp, ficou meio tutora"
+    },
+    {
+      "role": "user",
+      "content": "dessa supervisão."
+    },
+    {
+      "role": "user",
+      "content": "revisão de curso e tal,"
+    },
+    {
+      "role": "user",
+      "content": "coisa que no MEC isso era uma coisa importante."
+    },
+    {
+      "role": "user",
+      "content": "Super."
+    },
+    {
+      "role": "user",
+      "content": "Projetos muito..."
+    },
+    {
+      "role": "user",
+      "content": "E eu fui lá"
+    },
+    {
+      "role": "user",
+      "content": "ajudar a formar algumas..."
+    },
+    {
+      "role": "user",
+      "content": "algumas núcleos. Fui dar aula lá"
+    },
+    {
+      "role": "user",
+      "content": "em Infectologia."
+    },
+    {
+      "role": "user",
+      "content": "Em..."
+    },
+    {
+      "role": "assistant",
+      "content": "Lá em ubatuba?"
+    },
+    {
+      "role": "user",
+      "content": "Não, lá em... Bragança."
+    },
+    {
+      "role": "user",
+      "content": "E esse tempo demorou uns 4 anos."
+    },
+    {
+      "role": "user",
+      "content": "Depois de 4 anos, essa intervenção"
+    },
+    {
+      "role": "user",
+      "content": "acabou."
+    },
+    {
+      "role": "user",
+      "content": "E os professores que foram lá, que não eram professores,"
+    },
+    {
+      "role": "user",
+      "content": "eu era da Unicamp, fui lá trabalhar,"
+    },
+    {
+      "role": "user",
+      "content": "dando uma participação, outros, outros também foram,"
+    },
+    {
+      "role": "user",
+      "content": "E nos fomos mandado embora"
+    },
+    {
+      "role": "user",
+      "content": "acabou."
+    },
+    {
+      "role": "user",
+      "content": "E de repente eu recebo uma carta de demissão."
+    },
+    {
+      "role": "user",
+      "content": "E o que me chamou muito"
+    },
+    {
+      "role": "user",
+      "content": "atenção? Eu recebo uma nota"
+    },
+    {
+      "role": "user",
+      "content": "de dinheiro, porque eu..."
+    },
+    {
+      "role": "user",
+      "content": "como eu fui despedido,"
+    },
+    {
+      "role": "user",
+      "content": "tinha 40% de não sei o que,"
+    },
+    {
+      "role": "user",
+      "content": "mas papá, né,"
+    },
+    {
+      "role": "user",
+      "content": "porra, eu recebi um dinheiro que dava pra comprar"
+    },
+    {
+      "role": "user",
+      "content": "um terreno em o Ubatuba."
+    },
+    {
+      "role": "user",
+      "content": "Eu fui..."
+    },
+    {
+      "role": "user",
+      "content": "foi aí que eu..."
+    },
+    {
+      "role": "user",
+      "content": "entrou Itamambuca."
+    },
+    {
+      "role": "user",
+      "content": "Uma hora pra outra, eu era chefe de apartamento"
+    },
+    {
+      "role": "user",
+      "content": "aqui, mas fui com dinheiro e"
+    },
+    {
+      "role": "user",
+      "content": "comprei um terreno,"
+    },
+    {
+      "role": "user",
+      "content": "e em seis meses fiz uma casa, que tá até lá, até hoje."
+    },
+    {
+      "role": "user",
+      "content": "Que é um..."
+    },
+    {
+      "role": "user",
+      "content": "um refúgio que a gente tem com a família,"
+    },
+    {
+      "role": "user",
+      "content": "as crianças gostam, eu também gosto muito,"
+    },
+    {
+      "role": "user",
+      "content": "todos gostam muito."
+    },
+    {
+      "role": "user",
+      "content": "Mas foi lá na..."
+    },
+    {
+      "role": "user",
+      "content": "Itamambuca."
+    },
+    {
+      "role": "user",
+      "content": "Uma fúga."
+    },
+    {
+      "role": "user",
+      "content": "Mas foi uma..."
+    },
+    {
+      "role": "user",
+      "content": "mas venham assim, eu não tava"
+    },
+    {
+      "role": "user",
+      "content": "esperando por isso."
+    },
+    {
+      "role": "user",
+      "content": "Mas veio um dinheiro de repente,"
+    },
+    {
+      "role": "user",
+      "content": "eu falei, o que eu faço com isso?"
+    },
+    {
+      "role": "user",
+      "content": "Eu falei, esse é um limão, né,"
+    },
+    {
+      "role": "user",
+      "content": "você tá sendo mandado embora, vou fazer uma super"
+    },
+    {
+      "role": "user",
+      "content": "limonada e foi, deu certo."
+    },
+    {
+      "role": "assistant",
+      "content": "Falando em limonada, parece também"
+    },
+    {
+      "role": "assistant",
+      "content": "quando você vai ao Portugal, um das suas paixões são"
+    },
+    {
+      "role": "assistant",
+      "content": "vinhos."
+    },
+    {
+      "role": "user",
+      "content": "É, a gente..."
+    },
+    {
+      "role": "user",
+      "content": "Minha familia todos produzem vinho."
+    },
+    {
+      "role": "user",
+      "content": "São todos produtores, meu pai"
+    },
+    {
+      "role": "user",
+      "content": "produzia..."
+    },
+    {
+      "role": "user",
+      "content": "meu avô produz, meu tio"
+    },
+    {
+      "role": "user",
+      "content": "que tá lá, ele produz"
+    },
+    {
+      "role": "user",
+      "content": "mas ele acha que é o melhor do mundo."
+    },
+    {
+      "role": "user",
+      "content": "Entendeu? Eu tomo o vinho dele."
+    },
+    {
+      "role": "user",
+      "content": "E... mas a gente..."
+    },
+    {
+      "role": "user",
+      "content": "eu gosto muito."
+    },
+    {
+      "role": "user",
+      "content": "Isso é do meu pai."
+    },
+    {
+      "role": "user",
+      "content": "Meu pai é um apreciador de vinho fantástico."
+    },
+    {
+      "role": "user",
+      "content": "Ele me dava vinho."
+    },
+    {
+      "role": "user",
+      "content": "E eu não gostava do vinho, porra."
+    },
+    {
+      "role": "user",
+      "content": "Porque o vinho sabe que vinho porque quando é que você é"
+    },
+    {
+      "role": "user",
+      "content": "meio garoto, então toma o copode vinho, né, tem o gosto que..."
+    },
+    {
+      "role": "user",
+      "content": "Entendeu? Ele... ele enchia até a boca."
+    },
+    {
+      "role": "user",
+      "content": "E me dava pra vinho."
+    },
+    {
+      "role": "user",
+      "content": "E eu bebia..."
+    },
+    {
+      "role": "user",
+      "content": "eu bebi um pouquinho e deixava."
+    },
+    {
+      "role": "user",
+      "content": "Ele falava, porra..."
+    },
+    {
+      "role": "user",
+      "content": "Tu nem pra beber prestas."
+    },
+    {
+      "role": "user",
+      "content": "Eu falava, porra, porra, que isso."
+    },
+    {
+      "role": "user",
+      "content": "Deixa pra lá."
+    },
+    {
+      "role": "user",
+      "content": "Bom, e depois que eu comecei a"
+    },
+    {
+      "role": "user",
+      "content": "pegar gostou. Hoje eu acho que eu aprecio"
+    },
+    {
+      "role": "user",
+      "content": "muito o vinho. Uma das coisas..."
+    },
+    {
+      "role": "user",
+      "content": "Às vezes eu até viajp pra ver vinícolas"
+    },
+    {
+      "role": "user",
+      "content": "essas coisas, assim, pra França, pra alguma..."
+    },
+    {
+      "role": "user",
+      "content": "pra lá pra Portugal, pra uma"
+    },
+    {
+      "role": "user",
+      "content": "dúzia, a delas lá."
+    },
+    {
+      "role": "user",
+      "content": "Entendeu? Chile, Argentina..."
+    },
+    {
+      "role": "user",
+      "content": "Já tô... já tô..."
+    },
+    {
+      "role": "user",
+      "content": "já tô começando a conhecer alguma coisa do vinho"
+    },
+    {
+      "role": "user",
+      "content": "que é um mundo maravilhoso, não?"
+    },
+    {
+      "role": "assistant",
+      "content": "Um livro?"
+    },
+    {
+      "role": "user",
+      "content": "Você quer saber alguma coisa? Eu..."
+    },
+    {
+      "role": "user",
+      "content": "normalmente..."
+    },
+    {
+      "role": "user",
+      "content": "é..."
+    },
+    {
+      "role": "user",
+      "content": "você citou um livro."
+    },
+    {
+      "role": "user",
+      "content": "É um livro recente."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu tô vendo..."
+    },
+    {
+      "role": "user",
+      "content": "um..."
+    },
+    {
+      "role": "user",
+      "content": "Como Deus."
+    },
+    {
+      "role": "user",
+      "content": "do Harari. Um dia, é um livro bom."
+    },
+    {
+      "role": "user",
+      "content": "Já tinha lido o anterior,"
+    },
+    {
+      "role": "user",
+      "content": "o homo sapiens,"
+    },
+    {
+      "role": "user",
+      "content": "também muito bom."
+    },
+    {
+      "role": "user",
+      "content": "E tinha lido alguns outros"
+    },
+    {
+      "role": "user",
+      "content": "que são livros que têm alguma coisa de filosofia, não?"
+    },
+    {
+      "role": "user",
+      "content": "E eu acho que..."
+    },
+    {
+      "role": "user",
+      "content": "é um livro que tá percebendo"
+    },
+    {
+      "role": "user",
+      "content": "a movimentação do mundo,"
+    },
+    {
+      "role": "user",
+      "content": "né? Então..."
+    },
+    {
+      "role": "user",
+      "content": "tem..."
+    },
+    {
+      "role": "user",
+      "content": "tem alguma leitura nisso."
+    },
+    {
+      "role": "user",
+      "content": "Bem, não sou muito afeiçoado a ler ali"
+    },
+    {
+      "role": "user",
+      "content": "12 livros por ano."
+    },
+    {
+      "role": "user",
+      "content": "Eu leio alguns, dois, três,"
+    },
+    {
+      "role": "user",
+      "content": "no máximo, né?"
+    },
+    {
+      "role": "user",
+      "content": "Principalmente nas férias, né?"
+    },
+    {
+      "role": "user",
+      "content": "Nas férias eu fico numa vontade ler."
+    },
+    {
+      "role": "user",
+      "content": "E algum livro de filosofia,"
+    },
+    {
+      "role": "user",
+      "content": "mas essa é um destaque."
+    },
+    {
+      "role": "user",
+      "content": "Sua turma falan dos lusíadas."
+    },
+    {
+      "role": "user",
+      "content": "Então, dos lusíadas,"
+    },
+    {
+      "role": "user",
+      "content": "eu liei três vezes."
+    },
+    {
+      "role": "user",
+      "content": "Os lusíadas foi..."
+    },
+    {
+      "role": "user",
+      "content": "Quando eu fui para Portugal..."
+    },
+    {
+      "role": "user",
+      "content": "Os lusíadas. Os lusíadas eu li três vezes."
+    },
+    {
+      "role": "user",
+      "content": "A primeira vez,"
+    },
+    {
+      "role": "user",
+      "content": "eu tava em Portugal,"
+    },
+    {
+      "role": "user",
+      "content": "lá na aldeia,"
+    },
+    {
+      "role": "user",
+      "content": "fiquei três meses de lá e eu não podia aparecer"
+    },
+    {
+      "role": "user",
+      "content": "muito na cidade,"
+    },
+    {
+      "role": "user",
+      "content": "porque eu tava com 16 anos"
+    },
+    {
+      "role": "user",
+      "content": "e a época de convocação pra serviço militar."
+    },
+    {
+      "role": "user",
+      "content": "Embora eu estivesse"
+    },
+    {
+      "role": "user",
+      "content": "com um migrante,"
+    },
+    {
+      "role": "user",
+      "content": "que tava no Brasil, não tava lá, lá tava passeando."
+    },
+    {
+      "role": "user",
+      "content": "Então eu achava que era melhor não aparecer."
+    },
+    {
+      "role": "user",
+      "content": "Vai que vinha a convocação e tem de ir pra África, né?"
+    },
+    {
+      "role": "user",
+      "content": "Então,"
+    },
+    {
+      "role": "user",
+      "content": "eu ficava muito no meu avô na aldeia lá"
+    },
+    {
+      "role": "user",
+      "content": "e eu ajudava ele a trabalhar."
+    },
+    {
+      "role": "user",
+      "content": "Então, eu vinha com o carro de bois,"
+    },
+    {
+      "role": "user",
+      "content": "plantar pinheiros, não sei o quê."
+    },
+    {
+      "role": "user",
+      "content": "Estou vivendo assim, ele trabalhou lá."
+    },
+    {
+      "role": "user",
+      "content": "E quando eu fui..."
+    },
+    {
+      "role": "user",
+      "content": "Três meses depois,"
+    },
+    {
+      "role": "user",
+      "content": "eu fiquei lá três meses"
+    },
+    {
+      "role": "user",
+      "content": "num meio do mato lá naquela..."
+    },
+    {
+      "role": "user",
+      "content": "vivendo a atividade rural do meu avô,"
+    },
+    {
+      "role": "user",
+      "content": "que era já um senhor."
+    },
+    {
+      "role": "user",
+      "content": "E um dia o meu avô tava plantando pinheiros,"
+    },
+    {
+      "role": "user",
+      "content": "porque"
+    },
+    {
+      "role": "user",
+      "content": "os pinheiros tem uma..."
+    },
+    {
+      "role": "user",
+      "content": "plantando pinheiros, eles tinham vendidos nos pinheiros,"
+    },
+    {
+      "role": "user",
+      "content": "que eles cortam pra vender,"
+    },
+    {
+      "role": "user",
+      "content": "e tava plantando novos pinheiros,"
+    },
+    {
+      "role": "user",
+      "content": "eu perguntei vô."
+    },
+    {
+      "role": "user",
+      "content": "Quanto tempo demora um pinheiro pra crescer?"
+    },
+    {
+      "role": "user",
+      "content": "Ele olhou assim,"
+    },
+    {
+      "role": "user",
+      "content": "um pinheiro pra ficar como aquele assim,"
+    },
+    {
+      "role": "user",
+      "content": "ali era 30, 50 anos."
+    },
+    {
+      "role": "user",
+      "content": "Po meu, eu já tinha 60."
+    },
+    {
+      "role": "user",
+      "content": "Aí eu olhei,"
+    },
+    {
+      "role": "user",
+      "content": "eu olhei, pô"
+    },
+    {
+      "role": "user",
+      "content": "eu olhei pra o avô,"
+    },
+    {
+      "role": "user",
+      "content": "uns 30, 50 anos"
+    },
+    {
+      "role": "user",
+      "content": "Ele falou, mas eu não estou plantando,"
+    },
+    {
+      "role": "user",
+      "content": "não estou a plantar pra mim."
+    },
+    {
+      "role": "user",
+      "content": "Eu fiquei sem entender,"
+    },
+    {
+      "role": "user",
+      "content": "eu tava plantando os pinheiros,"
+    },
+    {
+      "role": "user",
+      "content": "pensando na geração,"
+    },
+    {
+      "role": "user",
+      "content": "ele falou, tô plantando pra vocês,"
+    },
+    {
+      "role": "user",
+      "content": "mas eu não estou a plantar isso pra mim."
+    },
+    {
+      "role": "user",
+      "content": "E na hora de ir embora,"
+    },
+    {
+      "role": "user",
+      "content": "ele abriu uma gavetinha"
+    },
+    {
+      "role": "user",
+      "content": "do criado mudo e me deu"
+    },
+    {
+      "role": "user",
+      "content": "uma versão"
+    },
+    {
+      "role": "user",
+      "content": "dos lusíadas."
+    },
+    {
+      "role": "user",
+      "content": "Antigo, era um verde"
+    },
+    {
+      "role": "user",
+      "content": "entendeu? Antigo, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Ele tinha isso"
+    },
+    {
+      "role": "user",
+      "content": "eu tinha 16 anos."
+    },
+    {
+      "role": "user",
+      "content": "Ele,"
+    },
+    {
+      "role": "user",
+      "content": "e deu a ver o livro lusíadas."
+    },
+    {
+      "role": "user",
+      "content": "Eu guardei"
+    },
+    {
+      "role": "user",
+      "content": "o livro,"
+    },
+    {
+      "role": "user",
+      "content": "comecei a ler impossível ler aquilo,"
+    },
+    {
+      "role": "user",
+      "content": "com 16 anos."
+    },
+    {
+      "role": "user",
+      "content": "Ele tava lindisto, tinha problema"
+    },
+    {
+      "role": "user",
+      "content": "que tava na prova de português,"
+    },
+    {
+      "role": "user",
+      "content": "tinha que estudar,"
+    },
+    {
+      "role": "user",
+      "content": "coisa muito complicada."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu li,"
+    },
+    {
+      "role": "user",
+      "content": "li inteiro, forçando a barra,"
+    },
+    {
+      "role": "user",
+      "content": "Li cânticos todos,"
+    },
+    {
+      "role": "user",
+      "content": "terminei o livro encostei,"
+    },
+    {
+      "role": "user",
+      "content": "problema que eu resolvi, mas não entendia"
+    },
+    {
+      "role": "user",
+      "content": "eu achei o livro"
+    },
+    {
+      "role": "user",
+      "content": "muito chato."
+    },
+    {
+      "role": "user",
+      "content": "Bom,"
+    },
+    {
+      "role": "user",
+      "content": "passado o tempo"
+    },
+    {
+      "role": "user",
+      "content": "eu falei, puxa vida, né?"
+    },
+    {
+      "role": "assistant",
+      "content": "Todo mundo falava dos lusíadas,"
+    },
+    {
+      "role": "user",
+      "content": "eu não sabia praticamente nada,"
+    },
+    {
+      "role": "user",
+      "content": "embora tivesse lido e tal,"
+    },
+    {
+      "role": "user",
+      "content": "fiquei devendo leitura melhor,"
+    },
+    {
+      "role": "user",
+      "content": "li de novo."
+    },
+    {
+      "role": "user",
+      "content": "Aí já achei uma coisa mais interessante,"
+    },
+    {
+      "role": "user",
+      "content": "eu tava voltando um pouco mais da história,"
+    },
+    {
+      "role": "user",
+      "content": "já tava no brasuk já fazia bastante tempo,"
+    },
+    {
+      "role": "user",
+      "content": "aí um pouco da reminescência e tal,"
+    },
+    {
+      "role": "user",
+      "content": "um pouco da história,"
+    },
+    {
+      "role": "user",
+      "content": "é uma história épica de"
+    },
+    {
+      "role": "user",
+      "content": "dos portuguesos, né?"
+    },
+    {
+      "role": "user",
+      "content": "Bom,"
+    },
+    {
+      "role": "user",
+      "content": "eu falei, puxa,"
+    },
+    {
+      "role": "user",
+      "content": "interessante."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu compreendi bem os Lusíadas"
+    },
+    {
+      "role": "user",
+      "content": "quando fui em Portugal,"
+    },
+    {
+      "role": "user",
+      "content": "mais recentemente,"
+    },
+    {
+      "role": "user",
+      "content": "meu filho já tava na escola,"
+    },
+    {
+      "role": "user",
+      "content": "já tava na sociedade,"
+    },
+    {
+      "role": "user",
+      "content": "eu fui comprei uma versão,"
+    },
+    {
+      "role": "user",
+      "content": "acho que era hermano saraiva,"
+    },
+    {
+      "role": "user",
+      "content": "uma versão explicada."
+    },
+    {
+      "role": "user",
+      "content": "Então é isso aqui dos lusíadas e isso aqui,"
+    },
+    {
+      "role": "user",
+      "content": "da explicação."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu li inteiro e fiquei apaixonado."
+    },
+    {
+      "role": "user",
+      "content": "Então, se eu ia pro clube,"
+    },
+    {
+      "role": "user",
+      "content": "lá pra Ípica, por exemplo,"
+    },
+    {
+      "role": "user",
+      "content": "ficava na piscina e ficava ali embaixo de uma árvore ali,"
+    },
+    {
+      "role": "user",
+      "content": "parecia que eu tava lendo a Bíblia,"
+    },
+    {
+      "role": "user",
+      "content": "entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Então o mundo até reparava,"
+    },
+    {
+      "role": "user",
+      "content": "porque ficava lendo um livro"
+    },
+    {
+      "role": "user",
+      "content": "que parecia meio escuro,"
+    },
+    {
+      "role": "user",
+      "content": "querendo que era uma revisão"
+    },
+    {
+      "role": "user",
+      "content": "cada coisa."
+    },
+    {
+      "role": "user",
+      "content": "Você tem o asterisco, você tem de ler lá,"
+    },
+    {
+      "role": "user",
+      "content": "o que significava aqui."
+    },
+    {
+      "role": "user",
+      "content": "Aí eu fiquei apaixonado,"
+    },
+    {
+      "role": "user",
+      "content": "consegui, acho que o livro é fantástico,"
+    },
+    {
+      "role": "user",
+      "content": "uma genialidade absurda."
+    },
+    {
+      "role": "user",
+      "content": "Então é que eu até guardava pedaços de lusíadas,"
+    },
+    {
+      "role": "user",
+      "content": "depois ficar na cabeça, que não saiam da cabeça."
+    },
+    {
+      "role": "user",
+      "content": "Numa leitura"
+    },
+    {
+      "role": "user",
+      "content": "meio rápida."
+    },
+    {
+      "role": "user",
+      "content": "Eu li a toda,"
+    },
+    {
+      "role": "assistant",
+      "content": "Pra terminar, um sonho"
+    },
+    {
+      "role": "assistant",
+      "content": "não realizado."
+    },
+    {
+      "role": "assistant",
+      "content": "Um sonho ainda a ser realizado,"
+    },
+    {
+      "role": "assistant",
+      "content": "melhor dizendo."
+    },
+    {
+      "role": "user",
+      "content": "Será que eu tenho..."
+    },
+    {
+      "role": "user",
+      "content": "que que eu preciso..."
+    },
+    {
+      "role": "user",
+      "content": "Eu preciso rever minha vida,"
+    },
+    {
+      "role": "user",
+      "content": "porque eu tô revendo na minha vida agora."
+    },
+    {
+      "role": "user",
+      "content": "Eu tô com relacionamento, pessoal novo,"
+    },
+    {
+      "role": "user",
+      "content": "entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "É..."
+    },
+    {
+      "role": "user",
+      "content": "Eu tô..."
+    },
+    {
+      "role": "user",
+      "content": "Acho que..."
+    },
+    {
+      "role": "user",
+      "content": "Eu sempre pensei"
+    },
+    {
+      "role": "user",
+      "content": "em..."
+    },
+    {
+      "role": "user",
+      "content": "em passar um período em Portugal."
+    },
+    {
+      "role": "user",
+      "content": "Isso foi um sonho que eu não realizei."
+    },
+    {
+      "role": "user",
+      "content": "Entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Mas eu acho que..."
+    },
+    {
+      "role": "user",
+      "content": "tô contextualizando um novo"
+    },
+    {
+      "role": "user",
+      "content": "momento."
+    },
+    {
+      "role": "user",
+      "content": "Talvez isso até surge, porque eu vou me aposentar"
+    },
+    {
+      "role": "user",
+      "content": "um pouco naturalmente."
+    },
+    {
+      "role": "user",
+      "content": "E..."
+    },
+    {
+      "role": "user",
+      "content": "por sorte..."
+    },
+    {
+      "role": "user",
+      "content": "Tô tendo uma..."
+    },
+    {
+      "role": "user",
+      "content": "compreensão..."
+    },
+    {
+      "role": "user",
+      "content": "uma nova companheira,"
+    },
+    {
+      "role": "user",
+      "content": "que também gosta de viajar,"
+    },
+    {
+      "role": "user",
+      "content": "e..."
+    },
+    {
+      "role": "user",
+      "content": "uma certa identidade com isso,"
+    },
+    {
+      "role": "user",
+      "content": "talvez eu venha a realizar."
+    },
+    {
+      "role": "user",
+      "content": "A passar um período"
+    },
+    {
+      "role": "user",
+      "content": "lá em Coimbra, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "E..."
+    },
+    {
+      "role": "user",
+      "content": "frequentar um pouco a vida"
+    },
+    {
+      "role": "user",
+      "content": "da cidade."
+    },
+    {
+      "role": "user",
+      "content": "Retorar um pouco as origens."
+    },
+    {
+      "role": "asistante",
+      "content": "Felicidade é..."
+    },
+    {
+      "role": "user",
+      "content": "Sei lá, eu acho que..."
+    },
+    {
+      "role": "user",
+      "content": "O que é que o cara pode ser feliz, né?"
+    },
+    {
+      "role": "user",
+      "content": "O cara que é feliz"
+    },
+    {
+      "role": "user",
+      "content": "geralmente tem pouca responsabilidade."
+    },
+    {
+      "role": "user",
+      "content": "Não pode ser muito responsável, né?"
+    },
+    {
+      "role": "user",
+      "content": "Mas eu acho que eu sou um cara feliz,"
+    },
+    {
+      "role": "user",
+      "content": "eu tenho..."
+    },
+    {
+      "role": "user",
+      "content": "vejo as..."
+    },
+    {
+      "role": "user",
+      "content": "meus filhos estão bem"
+    },
+    {
+      "role": "user",
+      "content": "com as minhas netas"
+    },
+    {
+      "role": "user",
+      "content": "sobre o vejo,"
+    },
+    {
+      "role": "user",
+      "content": "o jeito que eles estão desenvolvendo, me tras muita felicidade."
+    },
+    {
+      "role": "user",
+      "content": "Acho que..."
+    },
+    {
+      "role": "user",
+      "content": "estou vendo um momento que eu estou recuperando um pouco,"
+    },
+    {
+      "role": "user",
+      "content": "essa..."
+    },
+    {
+      "role": "user",
+      "content": "voltando a ser feliz, que realmente, dependendo de um tempo,"
+    },
+    {
+      "role": "user",
+      "content": "a vida ficou muito difícil."
+    },
+    {
+      "role": "user",
+      "content": "Mas agora a tua felicidade é isso."
+    },
+    {
+      "role": "user",
+      "content": "Talvez um reencontro."
+    },
+    {
+      "role": "user",
+      "content": "Sonhis que a gente tinha..."
+    },
+    {
+      "role": "user",
+      "content": "já tinha..."
+    },
+    {
+      "role": "user",
+      "content": "desistido, que agora..."
+    },
+    {
+      "role": "user",
+      "content": "retoma, né?"
+    },
+    {
+      "role": "assistant",
+      "content": "As suas netas, todas elas falaram assim,"
+    },
+    {
+      "role": "assistant",
+      "content": "eu sei que as outras vão falar, mas eu sou preferida"
+    },
+    {
+      "role": "assistant",
+      "content": "do meu avô."
+    },
+    {
+      "role": "user",
+      "content": "Eu falo para todas a mesma coisa."
+    },
+    {
+      "role": "user",
+      "content": "Pior é que elas acreditam."
+    },
+    {
+      "role": "assistant",
+      "content": "Obrigado, Rogério."
+    },
+    {
+      "role": "user",
+      "content": "Prazer."
+    },
+    {
+      "role": "user",
+      "content": "Maravilhoso."
+    },
+    {
+      "role": "assistant",
+      "content": "Ah, foi linda."
+    },
+    {
+      "role": "user",
+      "content": "Fui franco."
+    },
+    {
+      "role": "assistant",
+      "content": "Muito linda."
+    },
+    {
+      "role": "assistant",
+      "content": "Olha, como eu acabei de falar você, eu sou apaixonado por música e eu queria que você falasse da sua"
+    },
+    {
+      "role": "assistant",
+      "content": "paixão pelo fado."
+    },
+    {
+      "role": "user",
+      "content": "Eu?"
+    },
+    {
+      "role": "user",
+      "content": "Quem?"
+    },
+    {
+      "role": "user",
+      "content": "Do fado?"
+    },
+    {
+      "role": "user",
+      "content": "é uma música que eu gosto muito."
+    },
+    {
+      "role": "user",
+      "content": "O fado me traz, quando eu fico com triste, deprimido, eu escuto fado o dia inteiro,"
+    },
+    {
+      "role": "user",
+      "content": "eu fico doente."
+    },
+    {
+      "role": "user",
+      "content": "Então, quer dizer, eu não sei se eu gosto, eu vou se a indolência da música, me motivam"
+    },
+    {
+      "role": "user",
+      "content": "para eu não ficar tão ruim assim, que existem coisas piores."
+    },
+    {
+      "role": "user",
+      "content": "Mas eu gosto mesmo, mas não é todos os fados."
+    },
+    {
+      "role": "user",
+      "content": "Eu gosto do fado clássico, mas que me traz muitas lembranças."
+    },
+    {
+      "role": "user",
+      "content": "A minha família, o pessoal gostava muito de cantar, de dançar, e tal."
+    },
+    {
+      "role": "user",
+      "content": "E o fado fazia parte das coisas que a gente fazia habitualmente no nosso lugarzinho lá, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "A minha tia cantava muito bem, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Então, aprendeu, gostava de fado e toda vez que eu vou para Portugal, eu frequento"
+    },
+    {
+      "role": "user",
+      "content": "casas de fado."
+    },
+    {
+      "role": "user",
+      "content": "Eu frequento uma que não é tão boa, que era o fado vadio, da baixada, que é o fado do pessoal"
+    },
+    {
+      "role": "user",
+      "content": "que vive por ali, que é um fado meio de improviso."
+    },
+    {
+      "role": "user",
+      "content": "Mas o fado autêntico da baixa lisboa."
+    },
+    {
+      "role": "user",
+      "content": "Eu vou lá quase sempre, eu frequentava mais."
+    },
+    {
+      "role": "user",
+      "content": "Agora faz tempo que eu não vou, mas toda vez que eu ir lá, ir lá no fado da Tininha,"
+    },
+    {
+      "role": "user",
+      "content": "ficar la vendo o pessoal cantar e passar lá umas horas."
+    },
+    {
+      "role": "assistant",
+      "content": "Quem são os seus artistas e suas faixas preferidas?"
+    },
+    {
+      "role": "user",
+      "content": "Lá?"
+    },
+    {
+      "role": "assistant",
+      "content": "Deve ter uma cantora, um cantor e uma faixa específica que a gente toca o coração?"
+    },
+    {
+      "role": "user",
+      "content": "Então é, no fado eu sou apaixonado pela Maria Rodrigues, que é clássico, né?"
+    },
+    {
+      "role": "user",
+      "content": "Isso eu realmente não vejo nada melhor que isso."
+    },
+    {
+      "role": "user",
+      "content": "Aqui no Brasil eu gosto da música popular brasileira, entendeu?"
+    },
+    {
+      "role": "user",
+      "content": "Mas não tem assim uma sintonia com nenhuma corrente dessa musical aí, tá?"
+    },
+    {
+      "role": "assistant",
+      "content": "E da Maria Rodrigues qual é a faixa que você mais gosta, a música que você mais gosta dela?"
+    },
+    {
+      "role": "assistant",
+      "content": "Aquela que bate forte?"
+    },
+    {
+      "role": "user",
+      "content": "Deixa eu ver se eu me acho que..."
+    },
+    {
+      "role": "user",
+      "content": "Gaivota."
+    },
+    {
+      "role": "user",
+      "content": "É um fado que faz muito interessante."
+    },
+    {
+      "role": "assistant",
+      "content": "Você sabe cantar um pedacinho dele?"
+    },
+    {
+      "role": "user",
+      "content": "Não, não, não vou cantar não hahahaha."
+    },
+    {
+      "role": "assistant",
+      "content": "Muito obrigado."
+    },
+    {
+      "role": "user",
+      "content": "Obrigado."
+    }
+  ],
+  "summary": null,
+  "media_list": [],
+  "dialog": ""
+}
